@@ -1,0 +1,796 @@
+[gd_scene load_steps=17 format=2]
+
+[ext_resource path="res://fonts/Oswald-VariableFont_wght.ttf" type="DynamicFontData" id=1]
+[ext_resource path="res://Game.gd" type="Script" id=2]
+[ext_resource path="res://sprites/check-mark.png" type="Texture" id=3]
+[ext_resource path="res://Tap.tscn" type="PackedScene" id=4]
+[ext_resource path="res://RinseHands.tscn" type="PackedScene" id=5]
+[ext_resource path="res://HUD.gd" type="Script" id=6]
+[ext_resource path="res://RubHands.tscn" type="PackedScene" id=7]
+
+[sub_resource type="DynamicFont" id=1]
+size = 8
+font_data = ExtResource( 1 )
+
+[sub_resource type="DynamicFont" id=2]
+size = 14
+font_data = ExtResource( 1 )
+
+[sub_resource type="DynamicFont" id=3]
+font_data = ExtResource( 1 )
+
+[sub_resource type="Animation" id=4]
+length = 1.5
+tracks/0/type = "value"
+tracks/0/path = NodePath("CanvasLayer/HUD/ApplySoap:custom_fonts/font:size")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 1 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ 8, 74 ]
+}
+tracks/1/type = "value"
+tracks/1/path = NodePath("CanvasLayer/HUD/ApplySoap:visible")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/keys = {
+"times": PoolRealArray( 0, 1.5 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ true, false ]
+}
+tracks/2/type = "value"
+tracks/2/path = NodePath("CanvasLayer/HUD/ApplySoap:custom_colors/font_color")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/keys = {
+"times": PoolRealArray( 0, 1 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ Color( 0, 0, 0, 1 ), Color( 0.941176, 0, 1, 1 ) ]
+}
+
+[sub_resource type="Animation" id=5]
+resource_name = "between_fingers_txt"
+length = 1.5
+tracks/0/type = "value"
+tracks/0/path = NodePath("CanvasLayer/HUD/BetweenFingers:visible")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 1.5 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ true, false ]
+}
+tracks/1/type = "value"
+tracks/1/path = NodePath("CanvasLayer/HUD/BetweenFingers:custom_fonts/font:size")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/keys = {
+"times": PoolRealArray( 0, 1 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ 8, 64 ]
+}
+tracks/2/type = "value"
+tracks/2/path = NodePath("CanvasLayer/HUD/BetweenFingers:custom_colors/font_color")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/keys = {
+"times": PoolRealArray( 0, 1 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ Color( 0, 0, 0, 1 ), Color( 0, 1, 0.12549, 1 ) ]
+}
+
+[sub_resource type="Animation" id=6]
+resource_name = "palm_to_palm_txt"
+length = 1.5
+tracks/0/type = "value"
+tracks/0/path = NodePath("CanvasLayer/HUD/PalmToPalm:visible")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 1.5 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ true, false ]
+}
+tracks/1/type = "value"
+tracks/1/path = NodePath("CanvasLayer/HUD/PalmToPalm:custom_fonts/font:size")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/keys = {
+"times": PoolRealArray( 0, 1 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ 8, 74 ]
+}
+tracks/2/type = "value"
+tracks/2/path = NodePath("CanvasLayer/HUD/PalmToPalm:custom_colors/font_color")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/keys = {
+"times": PoolRealArray( 0, 1 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ Color( 0, 0, 0, 1 ), Color( 0, 1, 0.592157, 1 ) ]
+}
+
+[sub_resource type="Animation" id=7]
+length = 1.5
+tracks/0/type = "value"
+tracks/0/path = NodePath("CanvasLayer/HUD/SpreadIt:visible")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 1.5 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ true, false ]
+}
+tracks/1/type = "value"
+tracks/1/path = NodePath("CanvasLayer/HUD/SpreadIt:custom_fonts/font:size")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/keys = {
+"times": PoolRealArray( 0, 1 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ 8, 74 ]
+}
+tracks/2/type = "value"
+tracks/2/path = NodePath("CanvasLayer/HUD/SpreadIt:custom_colors/font_color")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/keys = {
+"times": PoolRealArray( 0, 1 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ Color( 0, 0, 0, 1 ), Color( 1, 0.784314, 0, 1 ) ]
+}
+
+[sub_resource type="Animation" id=8]
+length = 1.5
+tracks/0/type = "value"
+tracks/0/path = NodePath("CanvasLayer/HUD/WayOfClosedFists:visible")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 1.5 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ true, false ]
+}
+tracks/1/type = "value"
+tracks/1/path = NodePath("CanvasLayer/HUD/WayOfClosedFists:custom_fonts/font:size")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/keys = {
+"times": PoolRealArray( 0, 1 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ 8, 62 ]
+}
+tracks/2/type = "value"
+tracks/2/path = NodePath("CanvasLayer/HUD/WayOfClosedFists:custom_colors/font_color")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/keys = {
+"times": PoolRealArray( 0, 1 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ Color( 0, 0, 0, 1 ), Color( 1, 0, 0, 1 ) ]
+}
+
+[sub_resource type="Animation" id=9]
+length = 1.5
+tracks/0/type = "value"
+tracks/0/path = NodePath("CanvasLayer/HUD/WetYourHands:custom_colors/font_color")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 1 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ Color( 0, 0, 0, 1 ), Color( 0, 0.380392, 1, 1 ) ]
+}
+tracks/1/type = "value"
+tracks/1/path = NodePath("CanvasLayer/HUD/WetYourHands:custom_fonts/font:size")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/keys = {
+"times": PoolRealArray( 0, 1 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ 8, 74 ]
+}
+tracks/2/type = "value"
+tracks/2/path = NodePath("CanvasLayer/HUD/WetYourHands:visible")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/keys = {
+"times": PoolRealArray( 0, 1.5 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ true, false ]
+}
+
+[node name="Game" type="Node2D"]
+script = ExtResource( 2 )
+
+[node name="Tap" parent="." instance=ExtResource( 4 )]
+visible = false
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="HUD" type="Control" parent="CanvasLayer"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 6 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="WetYourHands" type="Label" parent="CanvasLayer/HUD"]
+visible = false
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -254.5
+margin_top = -55.5
+margin_right = 254.5
+margin_bottom = 55.5
+custom_fonts/font = SubResource( 1 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "WET YOUR HANDS!"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="ApplySoap" type="Label" parent="CanvasLayer/HUD"]
+visible = false
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -176.0
+margin_top = -55.5
+margin_right = 176.0
+margin_bottom = 55.5
+custom_fonts/font = SubResource( 1 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "APPLY SOAP!"
+align = 2
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="SpreadIt" type="Label" parent="CanvasLayer/HUD"]
+visible = false
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -176.0
+margin_top = -55.5
+margin_right = 176.0
+margin_bottom = 55.5
+custom_fonts/font = SubResource( 1 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "SPREAD IT!"
+align = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="BetweenFingers" type="Label" parent="CanvasLayer/HUD"]
+visible = false
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -294.0
+margin_top = -48.0
+margin_right = 294.0
+margin_bottom = 48.0
+custom_fonts/font = SubResource( 1 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "NOW, BETWEEN FINGERS!"
+align = 1
+valign = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="PalmToPalm" type="Label" parent="CanvasLayer/HUD"]
+visible = false
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -294.0
+margin_top = -55.5
+margin_right = 294.0
+margin_bottom = 55.5
+custom_fonts/font = SubResource( 1 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "PALM TO PALM!"
+align = 1
+valign = 2
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="WayOfClosedFists" type="Label" parent="CanvasLayer/HUD"]
+visible = false
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -323.0
+margin_top = -46.0
+margin_right = 323.0
+margin_bottom = 46.0
+custom_fonts/font = SubResource( 1 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "WAY OF THE CLOSED FIST(s)!"
+align = 2
+valign = 2
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="ScrewTheThumbs" type="Label" parent="CanvasLayer/HUD"]
+visible = false
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -323.0
+margin_top = -46.0
+margin_right = 323.0
+margin_bottom = 46.0
+custom_fonts/font = SubResource( 1 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "SCREW THE THUMBS!"
+valign = 2
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="RubThePalms" type="Label" parent="CanvasLayer/HUD"]
+visible = false
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -323.0
+margin_top = -46.0
+margin_right = 323.0
+margin_bottom = 46.0
+custom_fonts/font = SubResource( 1 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "RUB THE PALMS!"
+align = 2
+valign = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="RinseYourHands" type="Label" parent="CanvasLayer/HUD"]
+visible = false
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -323.0
+margin_top = -46.0
+margin_right = 323.0
+margin_bottom = 46.0
+custom_fonts/font = SubResource( 1 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "RINSE YOUR HANDS!"
+valign = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="DryTheHands" type="Label" parent="CanvasLayer/HUD"]
+visible = false
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -323.0
+margin_top = -46.0
+margin_right = 323.0
+margin_bottom = 46.0
+custom_fonts/font = SubResource( 1 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "DRY THE HANDS!"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="CloseTheTap" type="Label" parent="CanvasLayer/HUD"]
+visible = false
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -323.0
+margin_top = -46.0
+margin_right = 323.0
+margin_bottom = 46.0
+custom_fonts/font = SubResource( 1 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "CLOSE THE TAP!"
+align = 2
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Moisturize" type="Label" parent="CanvasLayer/HUD"]
+visible = false
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -323.0
+margin_top = -46.0
+margin_right = 323.0
+margin_bottom = 46.0
+custom_fonts/font = SubResource( 1 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "MOISTURIZE!"
+align = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="TaskList" type="VBoxContainer" parent="CanvasLayer/HUD"]
+anchor_left = 1.0
+anchor_right = 1.0
+margin_left = -534.0
+margin_top = 3.0
+margin_right = -9.0
+margin_bottom = 377.0
+custom_constants/separation = 10
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="QuestObjectives" type="HBoxContainer" parent="CanvasLayer/HUD/TaskList"]
+margin_right = 525.0
+margin_bottom = 22.0
+alignment = 2
+
+[node name="Label" type="Label" parent="CanvasLayer/HUD/TaskList/QuestObjectives"]
+margin_left = 440.0
+margin_right = 525.0
+margin_bottom = 22.0
+custom_fonts/font = SubResource( 2 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "Quest objectives:"
+align = 2
+valign = 1
+
+[node name="WetHands" type="HBoxContainer" parent="CanvasLayer/HUD/TaskList"]
+margin_top = 32.0
+margin_right = 525.0
+margin_bottom = 54.0
+alignment = 2
+
+[node name="Check" type="TextureRect" parent="CanvasLayer/HUD/TaskList/WetHands"]
+visible = false
+margin_left = 292.0
+margin_right = 308.0
+margin_bottom = 15.0
+texture = ExtResource( 3 )
+
+[node name="Label" type="Label" parent="CanvasLayer/HUD/TaskList/WetHands"]
+margin_left = 417.0
+margin_right = 525.0
+margin_bottom = 22.0
+custom_fonts/font = SubResource( 2 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "Wet hands with water"
+align = 2
+valign = 1
+
+[node name="ApplySoap" type="HBoxContainer" parent="CanvasLayer/HUD/TaskList"]
+margin_top = 64.0
+margin_right = 525.0
+margin_bottom = 86.0
+alignment = 2
+
+[node name="Check" type="TextureRect" parent="CanvasLayer/HUD/TaskList/ApplySoap"]
+visible = false
+margin_left = 214.0
+margin_right = 230.0
+margin_bottom = 15.0
+texture = ExtResource( 3 )
+
+[node name="Label" type="Label" parent="CanvasLayer/HUD/TaskList/ApplySoap"]
+margin_left = 301.0
+margin_right = 525.0
+margin_bottom = 22.0
+custom_fonts/font = SubResource( 2 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "Apply enough soap to cover all hand surfaces"
+align = 2
+valign = 1
+
+[node name="RubHands" type="HBoxContainer" parent="CanvasLayer/HUD/TaskList"]
+margin_top = 96.0
+margin_right = 525.0
+margin_bottom = 118.0
+alignment = 2
+
+[node name="Check" type="TextureRect" parent="CanvasLayer/HUD/TaskList/RubHands"]
+visible = false
+margin_left = 285.0
+margin_right = 301.0
+margin_bottom = 15.0
+texture = ExtResource( 3 )
+
+[node name="Label" type="Label" parent="CanvasLayer/HUD/TaskList/RubHands"]
+margin_left = 405.0
+margin_right = 525.0
+margin_bottom = 22.0
+custom_fonts/font = SubResource( 2 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "Rub hands palm to palm"
+align = 2
+valign = 1
+
+[node name="InterlacedFingers" type="HBoxContainer" parent="CanvasLayer/HUD/TaskList"]
+margin_top = 128.0
+margin_right = 525.0
+margin_bottom = 150.0
+alignment = 2
+
+[node name="Check" type="TextureRect" parent="CanvasLayer/HUD/TaskList/InterlacedFingers"]
+visible = false
+margin_left = 192.0
+margin_right = 208.0
+margin_bottom = 15.0
+texture = ExtResource( 3 )
+
+[node name="Label" type="Label" parent="CanvasLayer/HUD/TaskList/InterlacedFingers"]
+margin_left = 269.0
+margin_right = 525.0
+margin_bottom = 22.0
+custom_fonts/font = SubResource( 2 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "Right palm over left dorsum with interlaced fingers"
+align = 2
+valign = 1
+
+[node name="BacksOfFingers" type="HBoxContainer" parent="CanvasLayer/HUD/TaskList"]
+margin_top = 160.0
+margin_right = 525.0
+margin_bottom = 182.0
+alignment = 2
+
+[node name="Check" type="TextureRect" parent="CanvasLayer/HUD/TaskList/BacksOfFingers"]
+visible = false
+margin_left = 164.0
+margin_right = 180.0
+margin_bottom = 15.0
+texture = ExtResource( 3 )
+
+[node name="Label" type="Label" parent="CanvasLayer/HUD/TaskList/BacksOfFingers"]
+margin_left = 229.0
+margin_right = 525.0
+margin_bottom = 22.0
+custom_fonts/font = SubResource( 2 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "Backs of fingers to apposing palms with fingers interlocked"
+align = 2
+valign = 1
+
+[node name="ScrewThumbs" type="HBoxContainer" parent="CanvasLayer/HUD/TaskList"]
+margin_top = 192.0
+margin_right = 525.0
+margin_bottom = 214.0
+alignment = 2
+
+[node name="Check" type="TextureRect" parent="CanvasLayer/HUD/TaskList/ScrewThumbs"]
+visible = false
+margin_left = 134.0
+margin_right = 150.0
+margin_bottom = 15.0
+texture = ExtResource( 3 )
+
+[node name="Label" type="Label" parent="CanvasLayer/HUD/TaskList/ScrewThumbs"]
+margin_left = 183.0
+margin_right = 525.0
+margin_bottom = 22.0
+custom_fonts/font = SubResource( 2 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "Rotational rubbing of left thumb clapsed in right palm and vice versa"
+align = 2
+valign = 1
+
+[node name="RubPalms" type="HBoxContainer" parent="CanvasLayer/HUD/TaskList"]
+margin_top = 224.0
+margin_right = 525.0
+margin_bottom = 246.0
+alignment = 2
+
+[node name="Check" type="TextureRect" parent="CanvasLayer/HUD/TaskList/RubPalms"]
+visible = false
+margin_left = 9.0
+margin_right = 25.0
+margin_bottom = 15.0
+texture = ExtResource( 3 )
+
+[node name="Label" type="Label" parent="CanvasLayer/HUD/TaskList/RubPalms"]
+margin_right = 525.0
+margin_bottom = 22.0
+custom_fonts/font = SubResource( 2 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "Rotational rubbing, backwards and forwards with clapsed fingers of right hand in left palm and vice versa"
+align = 2
+valign = 1
+
+[node name="RinseHands" type="HBoxContainer" parent="CanvasLayer/HUD/TaskList"]
+margin_top = 256.0
+margin_right = 525.0
+margin_bottom = 278.0
+alignment = 2
+
+[node name="Check" type="TextureRect" parent="CanvasLayer/HUD/TaskList/RinseHands"]
+visible = false
+margin_left = 287.0
+margin_right = 303.0
+margin_bottom = 15.0
+texture = ExtResource( 3 )
+
+[node name="Label" type="Label" parent="CanvasLayer/HUD/TaskList/RinseHands"]
+margin_left = 410.0
+margin_right = 525.0
+margin_bottom = 22.0
+custom_fonts/font = SubResource( 2 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "Rinse hands with water"
+align = 2
+valign = 1
+
+[node name="Dry" type="HBoxContainer" parent="CanvasLayer/HUD/TaskList"]
+margin_top = 288.0
+margin_right = 525.0
+margin_bottom = 310.0
+alignment = 2
+
+[node name="Check" type="TextureRect" parent="CanvasLayer/HUD/TaskList/Dry"]
+visible = false
+margin_left = 237.0
+margin_right = 253.0
+margin_bottom = 15.0
+texture = ExtResource( 3 )
+
+[node name="Label" type="Label" parent="CanvasLayer/HUD/TaskList/Dry"]
+margin_left = 337.0
+margin_right = 525.0
+margin_bottom = 22.0
+custom_fonts/font = SubResource( 2 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "Dry thoroughly with a single use towel"
+align = 2
+valign = 1
+
+[node name="CloseTap" type="HBoxContainer" parent="CanvasLayer/HUD/TaskList"]
+margin_top = 320.0
+margin_right = 525.0
+margin_bottom = 342.0
+alignment = 2
+
+[node name="Check" type="TextureRect" parent="CanvasLayer/HUD/TaskList/CloseTap"]
+visible = false
+margin_left = 272.0
+margin_right = 288.0
+margin_bottom = 15.0
+texture = ExtResource( 3 )
+
+[node name="Label" type="Label" parent="CanvasLayer/HUD/TaskList/CloseTap"]
+margin_left = 387.0
+margin_right = 525.0
+margin_bottom = 22.0
+custom_fonts/font = SubResource( 2 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "Use towel to turn off faucet"
+align = 2
+valign = 1
+
+[node name="Moisturize" type="HBoxContainer" parent="CanvasLayer/HUD/TaskList"]
+margin_top = 352.0
+margin_right = 525.0
+margin_bottom = 374.0
+alignment = 2
+
+[node name="Check" type="TextureRect" parent="CanvasLayer/HUD/TaskList/Moisturize"]
+visible = false
+margin_left = 292.0
+margin_right = 308.0
+margin_bottom = 15.0
+texture = ExtResource( 3 )
+
+[node name="Label" type="Label" parent="CanvasLayer/HUD/TaskList/Moisturize"]
+margin_left = 416.0
+margin_right = 525.0
+margin_bottom = 22.0
+custom_fonts/font = SubResource( 2 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "Moisturize your hands"
+align = 2
+valign = 1
+
+[node name="Score" type="Label" parent="CanvasLayer/HUD"]
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_top = -31.0
+margin_bottom = -6.0
+custom_fonts/font = SubResource( 3 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+text = "SCORE: 1000000000"
+align = 1
+valign = 1
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+anims/apply_soap_txt = SubResource( 4 )
+anims/between_fingers_txt = SubResource( 5 )
+anims/palm_to_palm_txt = SubResource( 6 )
+anims/spread_it_txt = SubResource( 7 )
+anims/way_of_the_closed_fists_txt = SubResource( 8 )
+anims/wet_your_hands_txt = SubResource( 9 )
+
+[node name="RinseHands" parent="." instance=ExtResource( 5 )]
+visible = false
+position = Vector2( 580, 450 )
+
+[node name="RubHands" parent="." instance=ExtResource( 7 )]

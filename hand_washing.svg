@@ -1,0 +1,1702 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="793.70081"
+   height="1122.5197"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="hand_washing.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-106.56262"
+     inkscape:cy="-950.7134"
+     inkscape:document-units="px"
+     inkscape:current-layer="g908"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     showborder="false"
+     inkscape:object-nodes="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1072"
+     inkscape:window-y="418"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g939"
+       inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\soap_dispenser_1.png"
+       inkscape:export-xdpi="96.609032"
+       inkscape:export-ydpi="96.609032">
+      <path
+         id="rect815"
+         transform="scale(0.26458333)"
+         d="M 134.29883 213.38281 C 131.52883 213.38281 129.29883 215.61281 129.29883 218.38281 L 129.29883 253.78906 L 97.933594 253.78906 C 95.163594 253.78906 92.933594 256.01906 92.933594 258.78906 L 92.933594 402.42773 C 92.933594 405.19773 95.163594 407.42773 97.933594 407.42773 L 182.88867 407.42773 C 185.65867 407.42773 187.88867 405.19773 187.88867 402.42773 L 187.88867 258.78906 C 187.88867 256.01906 185.65867 253.78906 182.88867 253.78906 L 166.67578 253.78906 L 166.67578 218.38281 C 166.67578 215.61281 164.44578 213.38281 161.67578 213.38281 L 134.29883 213.38281 z "
+         style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="rect819"
+         transform="scale(0.26458333)"
+         d="M 160 222.87695 C 158.21929 222.87695 156.78516 224.31108 156.78516 226.0918 C 156.78516 227.87251 158.21929 229.30469 160 229.30469 L 223.21484 229.30469 L 223.21484 247.36719 C 223.21484 249.1479 224.64702 250.58203 226.42773 250.58203 L 235.35742 250.58203 C 237.13814 250.58203 238.57227 249.1479 238.57227 247.36719 L 238.57227 228.95703 C 239.6281 228.43133 240.35742 227.35563 240.35742 226.0918 C 240.35742 224.31108 238.92329 222.87695 237.14258 222.87695 L 160 222.87695 z "
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g943"
+       inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\soap_dispenser_2.png"
+       inkscape:export-xdpi="96.609032"
+       inkscape:export-ydpi="96.609032">
+      <path
+         id="rect829"
+         transform="scale(0.26458333)"
+         d="M 328.22852 225.38281 C 325.45852 225.38281 323.22852 227.61281 323.22852 230.38281 L 323.22852 253.78906 L 291.86328 253.78906 C 289.09328 253.78906 286.86328 256.01906 286.86328 258.78906 L 286.86328 402.42773 C 286.86328 405.19773 289.09328 407.42773 291.86328 407.42773 L 376.81641 407.42773 C 379.58641 407.42773 381.81641 405.19773 381.81641 402.42773 L 381.81641 258.78906 C 381.81641 256.01906 379.58641 253.78906 376.81641 253.78906 L 360.60352 253.78906 L 360.60352 230.38281 C 360.60352 227.61281 358.37352 225.38281 355.60352 225.38281 L 328.22852 225.38281 z "
+         style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:2.00000003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="rect833"
+         transform="scale(0.26458333)"
+         d="M 353.92773 234.87695 C 352.14702 234.87695 350.71484 236.31108 350.71484 238.0918 C 350.71484 239.87251 352.14702 241.30469 353.92773 241.30469 L 417.14258 241.30469 L 417.14258 259.36719 C 417.14258 261.1479 418.57671 262.58203 420.35742 262.58203 L 429.28516 262.58203 C 431.06587 262.58203 432.5 261.1479 432.5 259.36719 L 432.5 240.95703 C 433.55584 240.43133 434.28516 239.35563 434.28516 238.0918 C 434.28516 236.31108 432.85298 234.87695 431.07227 234.87695 L 353.92773 234.87695 z "
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.00000003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g908">
+      <g
+         id="g956"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\hand_catch_1.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032">
+        <path
+           id="rect899"
+           transform="scale(0.26458333)"
+           d="M 94.914062 488.5293 C 93.797628 488.5293 92.898438 489.42849 92.898438 490.54492 L 92.898438 575.17969 C 92.898437 576.29612 93.797628 577.19531 94.914062 577.19531 L 234.74023 577.19531 C 235.85667 577.19531 236.75586 576.29612 236.75586 575.17969 L 236.75586 571.80469 L 375.37695 571.80469 C 377.54214 571.80469 379.28516 570.06167 379.28516 567.89648 L 379.28516 499.28516 C 379.28516 497.11997 377.54214 495.37695 375.37695 495.37695 L 236.75586 495.37695 L 236.75586 490.54492 C 236.75586 489.42849 235.85667 488.5293 234.74023 488.5293 L 94.914062 488.5293 z "
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:1.99999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 43.272361,152.63224 v -5.32025 h 13.105978"
+           id="path884"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 24.705559,146.05525 H 40.962022"
+           id="path886"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 24.621543,140.65121 h 17.72668"
+           id="path888"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 24.495525,134.95394 H 36.971408"
+           id="path890"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g968"
+         transform="rotate(-2.5781512,1058.7133,162.62862)"
+         inkscape:transform-center-x="34.485952"
+         inkscape:transform-center-y="2.3990371"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\hand_catch_2.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032">
+        <path
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:1.99999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 94.914062,488.5293 c -1.116434,0 -2.015624,0.89919 -2.015624,2.01562 v 84.63477 c -10e-7,1.11643 0.89919,2.01562 2.015624,2.01562 H 234.74023 c 1.11644,0 2.01563,-0.89919 2.01563,-2.01562 v -3.375 h 138.62109 c 2.16519,0 3.90821,-1.74302 3.90821,-3.90821 v -68.61132 c 0,-2.16519 -1.74302,-3.90821 -3.90821,-3.90821 H 236.75586 v -4.83203 c 0,-1.11643 -0.89919,-2.01562 -2.01563,-2.01562 z"
+           transform="scale(0.26458333)"
+           id="path958"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path960"
+           d="m 43.272361,152.63224 v -5.32025 h 13.105978"
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path962"
+           d="M 24.705559,146.05525 H 40.962022"
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path964"
+           d="m 24.621543,140.65121 h 17.72668"
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path966"
+           d="M 24.495525,134.95394 H 36.971408"
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <g
+         inkscape:transform-center-y="2.3990371"
+         inkscape:transform-center-x="34.485952"
+         transform="rotate(-2.5781512,2009.2008,184.01688)"
+         id="g980"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\hand_catch_3.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032">
+        <g
+           id="g987"
+           inkscape:transform-center-x="34.869098"
+           inkscape:transform-center-y="5.044955"
+           transform="rotate(-4.6436464,97.457814,141.27078)">
+          <path
+             transform="scale(0.26458333)"
+             style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:1.99999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 94.914062,488.5293 c -1.116434,0 -2.015624,0.89919 -2.015624,2.01562 v 84.63477 c -10e-7,1.11643 0.89919,2.01562 2.015624,2.01562 H 234.74023 c 1.11644,0 2.01563,-0.89919 2.01563,-2.01562 v -3.375 h 138.62109 c 2.16519,0 3.90821,-1.74302 3.90821,-3.90821 v -68.61132 c 0,-2.16519 -1.74302,-3.90821 -3.90821,-3.90821 H 236.75586 v -4.83203 c 0,-1.11643 -0.89919,-2.01562 -2.01563,-2.01562 z"
+             id="path970"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path972"
+             d="m 43.272361,152.63224 v -5.32025 h 13.105978"
+             style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path974"
+             d="M 24.705559,146.05525 H 40.962022"
+             style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path976"
+             d="m 24.621543,140.65121 h 17.72668"
+             style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path978"
+             d="M 24.495525,134.95394 H 36.971408"
+             style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        </g>
+      </g>
+      <g
+         id="g998"
+         transform="translate(393.95528,36.081386)"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\hand_push.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032">
+        <g
+           id="g1006"
+           transform="matrix(0.83726459,0,0,0.83276343,-53.012002,23.407708)"
+           style="fill:#ffd42a;fill-opacity:1;stroke-width:1.19758904">
+          <rect
+             style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.63372415;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect993"
+             width="23.519718"
+             height="11.759859"
+             x="-33.94323"
+             y="52.715645"
+             ry="0.53319627" />
+          <path
+             id="rect989"
+             transform="matrix(0.26458333,0,0,0.26458333,-60.402913,10.958051)"
+             d="m -235.99219,148.73242 c -1.89174,0 -3.41406,1.52232 -3.41406,3.41406 v 54.79102 c 0,1.89174 1.52232,3.41406 3.41406,3.41406 h 224.496096 c 1.8917413,0 3.4140628,-1.52232 3.4140628,-3.41406 v -4.66602 H 168.70117 c 1.11644,0 2.01367,-0.89918 2.01367,-2.01562 v -42.4375 c 0,-1.11644 -0.89723,-2.01563 -2.01367,-2.01563 H -8.0820312 v -3.65625 c 0,-1.89174 -1.5223215,-3.41406 -3.4140628,-3.41406 z"
+             style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:2.39517784;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             inkscape:connector-curvature="0" />
+          <rect
+             style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.63372415;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect991"
+             width="24.054256"
+             height="8.0180855"
+             x="-60.707787"
+             y="56.991955"
+             ry="0.53319627" />
+        </g>
+      </g>
+      <g
+         id="g1018"
+         transform="rotate(135.00527,144.41707,214.9318)"
+         inkscape:transform-center-x="-24.989313"
+         inkscape:transform-center-y="-24.365341"
+         style="stroke-width:0.5291667;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\hand_step_1_left.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032">
+        <path
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 94.914062,488.5293 c -1.116434,0 -2.015624,0.89919 -2.015624,2.01562 v 84.63477 c -10e-7,1.11643 0.89919,2.01562 2.015624,2.01562 H 234.74023 c 1.11644,0 2.01563,-0.89919 2.01563,-2.01562 v -3.375 h 138.62109 c 2.16519,0 3.90821,-1.74302 3.90821,-3.90821 v -68.61132 c 0,-2.16519 -1.74302,-3.90821 -3.90821,-3.90821 H 236.75586 v -4.83203 c 0,-1.11643 -0.89919,-2.01562 -2.01563,-2.01562 z"
+           transform="scale(0.26458333)"
+           id="path1008"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1010"
+           d="m 43.272361,152.63224 v -5.32025 h 13.105978"
+           style="fill:none;stroke:#000000;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1012"
+           d="M 24.705559,146.05525 H 40.962022"
+           style="fill:none;stroke:#000000;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1014"
+           d="m 24.621543,140.65121 h 17.72668"
+           style="fill:none;stroke:#000000;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1016"
+           d="M 24.495525,134.95394 H 36.971408"
+           style="fill:none;stroke:#000000;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         id="g1044"
+         transform="translate(-10.045536,7.4639119)"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\hand_step_1_right.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032">
+        <rect
+           transform="rotate(12.71191)"
+           inkscape:transform-center-y="-1.7022681"
+           inkscape:transform-center-x="6.6873946"
+           ry="0.53319627"
+           y="118.68849"
+           x="363.32639"
+           height="5.8586307"
+           width="17.575893"
+           id="rect1037"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1020"
+           d="m 337.96825,166.33656 c -0.20605,-0.21166 -0.54248,-0.21618 -0.75414,-0.0101 l -16.04541,15.62015 c -0.21165,0.20604 -0.21617,0.54247 -0.0101,0.75413 l 25.80624,26.50882 c 0.20605,0.21166 0.54248,0.21618 0.75413,0.0101 l 0.63985,-0.62289 25.58383,26.28036 c 0.39961,0.41049 1.05175,0.41925 1.46223,0.0196 l 13.00762,-12.66287 c 0.41049,-0.39961 0.41925,-1.05175 0.0196,-1.46223 l -25.58383,-26.28036 0.91607,-0.8918 c 0.21166,-0.20604 0.21618,-0.54247 0.0101,-0.75413 z"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 325.64746,177.76262 11.33965,11.64839"
+           id="path1024"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 329.46106,173.93285 12.3652,12.70185"
+           id="path1026"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 333.45547,169.86843 8.70252,8.93945"
+           id="path1028"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g1052"
+         transform="translate(-125.0564,-149.0005)"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\bubble_1.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032">
+        <circle
+           r="16.036171"
+           cy="170.58151"
+           cx="165.17258"
+           id="path1046"
+           style="opacity:1;fill:#d7f4e3;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <circle
+           r="2.9399648"
+           cy="167.37427"
+           cx="168.11252"
+           id="path1048"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         id="g1075"
+         transform="translate(5.3453906,44.523305)"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\bubble_2.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032">
+        <g
+           transform="translate(-0.75595238,-7.1815476)"
+           id="g1069">
+          <g
+             id="g1064"
+             transform="translate(-130.40179,-193.90178)">
+            <ellipse
+               ry="13.012362"
+               rx="10.555516"
+               style="opacity:1;fill:#d7f4e3;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="circle1054"
+               cx="200.13536"
+               cy="150.54878" />
+            <circle
+               style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="circle1056"
+               cx="202.50835"
+               cy="144.69569"
+               r="2.9399648" />
+          </g>
+        </g>
+      </g>
+      <g
+         transform="matrix(0.87467059,0,0,0.49166926,41.015613,42.458554)"
+         id="g1085"
+         style="stroke-width:1.52489948"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\bubble_3.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032">
+        <g
+           id="g1083"
+           transform="translate(-0.75595238,-7.1815476)"
+           style="stroke-width:1.52489948">
+          <g
+             transform="translate(-130.40179,-193.90178)"
+             id="g1081"
+             style="stroke-width:1.52489948">
+            <ellipse
+               cy="150.54878"
+               cx="200.13536"
+               id="ellipse1077"
+               style="opacity:1;fill:#d7f4e3;fill-opacity:1;stroke:#000000;stroke-width:0.80692589;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               rx="10.555516"
+               ry="13.012362" />
+            <circle
+               r="2.9399648"
+               cy="144.69569"
+               cx="202.50835"
+               id="circle1079"
+               style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.80692589;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          </g>
+        </g>
+      </g>
+      <path
+         style="fill:#aaeeff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 133.05283,187.49515 c -1.82595,-0.46826 -4.20318,1.85465 -5.62176,0.61328 -1.05156,-0.9202 -0.27605,-2.80428 -0.10221,-4.19077 0.39184,-3.12523 -0.36805,-7.92469 2.55535,-9.09703 2.60867,-1.04613 4.82034,2.89247 7.25718,4.29298 1.45468,0.83604 3.46409,1.05738 4.39519,2.45313 0.98973,1.48364 1.92533,4.10712 0.61329,5.31512 -1.15028,1.05907 -3.22841,-1.67126 -4.59963,-0.91992 -1.15415,0.6324 -0.17163,3.29759 -1.43099,3.6797 -1.19393,0.36226 -1.85784,-1.83657 -3.06642,-2.14649 z"
+         id="path1133"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="aaaaaaaaaa"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\soap_2.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032" />
+      <path
+         sodipodi:nodetypes="aaaaaaaaaa"
+         inkscape:connector-curvature="0"
+         id="path1135"
+         d="m 128.27957,235.99618 c -1.50045,-0.89168 -0.35891,-3.4933 -0.86083,-5.16498 -1.04488,-3.48003 -5.26919,-6.42645 -4.42713,-9.96104 0.73592,-3.08903 4.37592,-4.99242 7.37855,-6.02581 5.31148,-1.828 12.57469,-3.2773 16.84768,0.36893 2.78902,2.37993 3.2338,7.38101 1.96761,10.82186 -0.6036,1.64029 -3.86471,1.58328 -4.0582,3.32035 -0.18428,1.65436 3.84827,2.46145 3.0744,3.93522 -1.60364,3.05398 -6.91282,-1.08561 -10.32997,-0.61487 -3.35186,0.46174 -6.68346,5.04889 -9.59211,3.32034 z"
+         style="fill:#aaeeff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\soap_3.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032" />
+      <path
+         style="fill:#aaeeff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 126.01938,102.17303 c -1.04089,-0.8567 -0.66119,-2.615292 -0.91899,-3.938524 -0.43201,-2.217426 -2.43691,-4.911995 -1.05027,-6.695493 0.86331,-1.110381 3.17339,-1.354099 4.20109,-0.393848 1.24746,1.165574 -0.32679,3.424058 -0.13128,5.120084 0.23825,2.066703 2.87651,4.415751 1.57541,6.039071 -0.76682,0.95672 -2.72927,0.64788 -3.67596,-0.13129 z"
+         id="path1137"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="aaaaaaa"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\soap_1.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032" />
+      <g
+         id="g1878"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\water_dispenser.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032">
+        <path
+           inkscape:connector-curvature="0"
+           id="rect1139"
+           d="m 24.404924,278.631 c -0.295389,0 -0.533299,0.23791 -0.533299,0.53329 v 48.8265 c 0,0.29538 0.23791,0.5333 0.533299,0.5333 h 11.406539 c 0.295392,0 0.533303,-0.23792 0.533303,-0.5333 V 290.7264 h 29.104166 v 5.13662 c 0,0.29541 0.237911,0.53279 0.533299,0.53279 h 8.005197 c 0.295391,0 0.532783,-0.23738 0.532783,-0.53279 v -5.13662 h 0.978752 c 0.295391,0 0.533302,-0.23791 0.533302,-0.53332 v -9.89499 c 0,-0.29538 -0.237911,-0.53279 -0.533302,-0.53279 H 36.344766 v -0.60101 c 0,-0.29538 -0.237911,-0.53329 -0.533303,-0.53329 z"
+           style="opacity:1;fill:#80ffb3;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           ry="0.53319627"
+           y="269.93765"
+           x="13.288288"
+           height="8.6934528"
+           width="33.639881"
+           id="rect1146"
+           style="opacity:1;fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         id="g1156"
+         transform="matrix(0.36528057,0,0,0.36528057,129.74415,222.63986)"
+         style="stroke-width:2.73762155"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\water_drop_2.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032">
+        <path
+           sodipodi:nodetypes="caaaaaac"
+           inkscape:connector-curvature="0"
+           id="path1150"
+           d="m -88.446426,206.66368 c -4.889945,10.98121 -5.873975,16.67762 -7.559526,25.3244 -0.508524,2.60871 -0.999263,5.29086 -0.755953,7.9375 0.251907,2.74016 0.257833,6.05822 2.267858,7.9375 2.635415,2.464 7.19669,3.51178 10.583333,2.26786 3.879436,-1.42492 6.634081,-5.79948 7.559524,-9.82738 0.835495,-3.6364 -1.142212,-7.404 -2.267857,-10.96131 -2.485538,-7.85489 -3.139395,-10.97699 -9.827379,-22.67857 z"
+           style="fill:#d5fff6;stroke:none;stroke-width:0.72432905px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:#ffffff;stroke:none;stroke-width:0.72432905px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -86.391877,229.76253 c -2.118668,4.36626 -2.545018,6.63123 -3.275318,10.0693 -0.220329,1.03726 -0.432951,2.10372 -0.327532,3.15605 0.109149,1.08952 0.111713,2.40882 0.982596,3.15605 1.141846,0.97972 3.118111,1.39633 4.585442,0.90174 1.680844,-0.56658 2.87435,-2.30595 3.275317,-3.9075 0.361995,-1.44588 -0.494886,-2.94392 -0.982594,-4.35836 -1.076911,-3.1232 -1.360207,-4.36459 -4.257911,-9.01728 z"
+           id="path1152"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="caaaaaac" />
+      </g>
+      <g
+         id="g1162"
+         transform="matrix(0.15826521,0,0,0.15826521,107.76671,256.72417)"
+         style="stroke-width:6.31850767"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\water_drop_3.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032">
+        <path
+           style="fill:#d5fff6;stroke:none;stroke-width:1.67177188px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -88.446426,206.66368 c -4.889945,10.98121 -5.873975,16.67762 -7.559526,25.3244 -0.508524,2.60871 -0.999263,5.29086 -0.755953,7.9375 0.251907,2.74016 0.257833,6.05822 2.267858,7.9375 2.635415,2.464 7.19669,3.51178 10.583333,2.26786 3.879436,-1.42492 6.634081,-5.79948 7.559524,-9.82738 0.835495,-3.6364 -1.142212,-7.404 -2.267857,-10.96131 -2.485538,-7.85489 -3.139395,-10.97699 -9.827379,-22.67857 z"
+           id="path1158"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="caaaaaac" />
+        <path
+           sodipodi:nodetypes="caaaaaac"
+           inkscape:connector-curvature="0"
+           id="path1160"
+           d="m -86.391877,229.76253 c -2.118668,4.36626 -2.545018,6.63123 -3.275318,10.0693 -0.220329,1.03726 -0.432951,2.10372 -0.327532,3.15605 0.109149,1.08952 0.111713,2.40882 0.982596,3.15605 1.141846,0.97972 3.118111,1.39633 4.585442,0.90174 1.680844,-0.56658 2.87435,-2.30595 3.275317,-3.9075 0.361995,-1.44588 -0.494886,-2.94392 -0.982594,-4.35836 -1.076911,-3.1232 -1.360207,-4.36459 -4.257911,-9.01728 z"
+           style="fill:#ffffff;stroke:none;stroke-width:1.67177188px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <g
+         style="stroke-width:3.56507087"
+         transform="matrix(0.21168853,0,0,0.37167755,117.90991,201.85034)"
+         id="g1168"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\water_drop_1.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032">
+        <path
+           sodipodi:nodetypes="caaaaaac"
+           inkscape:connector-curvature="0"
+           id="path1164"
+           d="m -88.446426,206.66368 c -4.889945,10.98121 -5.873975,16.67762 -7.559526,25.3244 -0.508524,2.60871 -0.999263,5.29086 -0.755953,7.9375 0.251907,2.74016 0.257833,6.05822 2.267858,7.9375 2.635415,2.464 7.19669,3.51178 10.583333,2.26786 3.879436,-1.42492 6.634081,-5.79948 7.559524,-9.82738 0.835495,-3.6364 -1.142212,-7.404 -2.267857,-10.96131 -2.485538,-7.85489 -3.139395,-10.97699 -9.827379,-22.67857 z"
+           style="fill:#d5fff6;stroke:none;stroke-width:0.94325835px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:#ffffff;stroke:none;stroke-width:0.94325835px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -86.391877,229.76253 c -2.118668,4.36626 -2.545018,6.63123 -3.275318,10.0693 -0.220329,1.03726 -0.432951,2.10372 -0.327532,3.15605 0.109149,1.08952 0.111713,2.40882 0.982596,3.15605 1.141846,0.97972 3.118111,1.39633 4.585442,0.90174 1.680844,-0.56658 2.87435,-2.30595 3.275317,-3.9075 0.361995,-1.44588 -0.494886,-2.94392 -0.982594,-4.35836 -1.076911,-3.1232 -1.360207,-4.36459 -4.257911,-9.01728 z"
+           id="path1166"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="caaaaaac" />
+      </g>
+      <g
+         id="g1200"
+         transform="rotate(2.3059788,-96.713314,292.74367)"
+         inkscape:transform-center-x="34.55072"
+         inkscape:transform-center-y="2.5595665" />
+      <g
+         id="g1223"
+         transform="translate(191.72397,-274.14479)"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\hands_rinse.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1184"
+           d="m 65.970572,427.67989 c -0.292839,0.0388 -0.559914,-0.16588 -0.598657,-0.45874 l -2.938352,-22.19933 c -0.03876,-0.29283 0.165877,-0.5599 0.458731,-0.59865 l 36.675789,-4.85449 c 0.292838,-0.0388 0.559917,0.16588 0.598647,0.45873 l 0.11718,0.88525 36.3597,-4.81265 c 0.56793,-0.0752 1.08563,0.3215 1.16077,0.88945 l 2.38205,17.99645 c 0.0752,0.56792 -0.3215,1.08563 -0.88945,1.16077 l -36.3597,4.81265 0.16775,1.26742 c 0.0388,0.29283 -0.16587,0.55991 -0.45873,0.59865 z"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.5291667;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="rotate(2.3059788,-96.713324,292.74367)" />
+        <rect
+           transform="matrix(0.98133551,0.19230348,0.19230348,-0.98133551,11.700533,4.1284258)"
+           inkscape:transform-center-y="0.29558626"
+           inkscape:transform-center-x="6.8943176"
+           ry="0.53319627"
+           y="-386.90424"
+           x="137.17477"
+           height="5.8586307"
+           width="17.575893"
+           id="rect1182"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 63.362699,411.08002 16.115903,-2.13315"
+           id="path1186"
+           inkscape:connector-curvature="0"
+           transform="rotate(2.3059788,-96.713324,292.74367)" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 63.988521,416.44835 17.573406,-2.32606"
+           id="path1188"
+           inkscape:connector-curvature="0"
+           transform="rotate(2.3059788,-96.713324,292.74367)" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 64.611172,422.1129 12.36801,-1.63706"
+           id="path1190"
+           inkscape:connector-curvature="0"
+           transform="rotate(2.3059788,-96.713324,292.74367)" />
+        <g
+           inkscape:transform-center-y="-3.9021681"
+           inkscape:transform-center-x="29.351537"
+           transform="matrix(0.72466194,0.68910455,0.68910455,-0.72466194,-292.93321,324.34786)"
+           id="g1180">
+          <rect
+             style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect1170"
+             width="17.575893"
+             height="5.8586307"
+             x="363.32639"
+             y="118.68849"
+             ry="0.53319627"
+             inkscape:transform-center-x="6.6873946"
+             inkscape:transform-center-y="-1.7022681"
+             transform="rotate(12.71191)" />
+          <path
+             style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.5291667;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 337.96825,166.33656 c -0.20605,-0.21166 -0.54248,-0.21618 -0.75414,-0.0101 l -16.04541,15.62015 c -0.21165,0.20604 -0.21617,0.54247 -0.0101,0.75413 l 25.80624,26.50882 c 0.20605,0.21166 0.54248,0.21618 0.75413,0.0101 l 0.63985,-0.62289 25.58383,26.28036 c 0.39961,0.41049 1.05175,0.41925 1.46223,0.0196 l 13.00762,-12.66287 c 0.41049,-0.39961 0.41925,-1.05175 0.0196,-1.46223 l -25.58383,-26.28036 0.91607,-0.8918 c 0.21166,-0.20604 0.21618,-0.54247 0.0101,-0.75413 z"
+             id="path1172"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1174"
+             d="m 325.64746,177.76262 11.33965,11.64839"
+             style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1176"
+             d="m 329.46106,173.93285 12.3652,12.70185"
+             style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1178"
+             d="m 333.45547,169.86843 8.70252,8.93945"
+             style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        </g>
+      </g>
+      <g
+         id="g1292"
+         transform="matrix(-0.92341868,0,0,0.92389273,763.00204,67.190653)"
+         style="stroke-width:1.08265448"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\hand_step_2_right_2.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032">
+        <rect
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.57290465;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1225"
+           width="17.575893"
+           height="5.8586307"
+           x="512.59003"
+           y="-131.13605"
+           ry="0.53319627"
+           inkscape:transform-center-x="6.8983283"
+           inkscape:transform-center-y="0.17859514"
+           transform="rotate(41.947594)" />
+        <path
+           id="path1227"
+           transform="scale(0.26458333)"
+           d="m 1824.6875,847.28711 c -1.1164,-0.0107 -2.0207,0.87966 -2.0273,1.99609 l -0.4239,71.35547 -31.3652,-49.63672 c -0.5964,-0.9438 -1.8355,-1.22332 -2.7793,-0.62695 l -15.3125,9.67578 c -0.9438,0.59638 -1.2233,1.83549 -0.627,2.7793 l 27.9532,44.23828 -0.75,55.98828 c -0.015,1.11636 0.8719,2.02612 1.9883,2.04102 l 3.375,0.0469 -1.8614,138.60744 c -0.03,2.165 1.6904,3.9319 3.8555,3.9609 l 68.6035,0.9199 c 2.165,0.03 3.932,-1.6904 3.9609,-3.8555 l 1.8614,-138.60735 4.832,0.0645 c 1.1163,0.0151 2.0281,-0.87185 2.043,-1.98829 l 0.6582,-49.03906 18.6758,-47.29492 c 0.4099,-1.03833 -0.099,-2.19685 -1.1407,-2.59766 l -16.9043,-6.50195 c -1.0419,-0.40081 -2.2111,0.11206 -2.6211,1.15039 l -17.9296,45.41406 h -0.07 l 7.6758,-61.11328 c 0.1391,-1.10774 -0.6405,-2.11341 -1.748,-2.2539 l -17.9688,-2.2793 c -1.1075,-0.1405 -2.1109,0.63835 -2.25,1.74609 l -8.0254,63.90039 h -2.0136 l 0.4511,-75.88086 c 0.01,-1.11643 -0.8875,-2.02449 -2.0039,-2.03515 z"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:2.16530895;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g1288"
+         transform="translate(-211.08769,47.86561)">
+        <rect
+           transform="rotate(60.664539)"
+           inkscape:transform-center-y="-6.0282906"
+           inkscape:transform-center-x="2.4475173"
+           ry="0.53319627"
+           y="-367.17264"
+           x="479.8428"
+           height="5.8586307"
+           width="17.575893"
+           id="rect1260"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path1262"
+           transform="scale(0.26458333)"
+           d="m 2135.4023,834.42969 c -1.1164,-0.0107 -2.0207,0.87965 -2.0273,1.99609 l -0.4199,70.68164 -11.3067,-52.13672 c -0.2366,-1.09108 -1.3054,-1.77957 -2.3964,-1.54297 l -17.7012,3.83789 c -1.0911,0.23661 -1.7776,1.30541 -1.541,2.39649 l 11.4609,52.85742 h -0.6269 l -0.7735,57.67969 c -0.015,1.11636 0.8719,2.02612 1.9883,2.04101 l 3.375,0.0469 -1.8613,138.60737 c -0.03,2.165 1.6903,3.932 3.8554,3.961 l 68.6035,0.9199 c 2.165,0.03 3.9321,-1.6904 3.961,-3.8555 l 1.8613,-138.60738 4.832,0.0644 c 1.1163,0.0151 2.0281,-0.87184 2.043,-1.98828 l 0.6445,-48.00781 c 0.3194,-0.29578 0.5523,-0.68968 0.629,-1.15234 l 8.6972,-52.47266 c 0.1825,-1.10132 -0.5573,-2.12798 -1.6601,-2.30078 l -17.8926,-2.80274 c -1.1029,-0.1728 -2.1378,0.57447 -2.3203,1.67578 l -7.3379,44.2754 4.0469,-60.25391 c 0.075,-1.11393 -0.7612,-2.07221 -1.875,-2.14844 l -18.0704,-1.23828 c -1.1138,-0.0762 -2.0696,0.75912 -2.1445,1.87305 l -4.2793,63.68359 h -2.0996 l 0.4512,-75.88086 c 0.01,-1.11644 -0.8875,-2.02449 -2.0039,-2.03515 z"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:1.99999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g1787"
+         transform="translate(-30.468726,-1.0690781)">
+        <g
+           transform="translate(9.087164,3.7417734)"
+           id="g1777">
+          <g
+             id="g1348"
+             transform="translate(207.08038,-66.401741)">
+            <rect
+               style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect1273"
+               width="17.575893"
+               height="5.8586307"
+               x="391.91565"
+               y="-258.54846"
+               ry="0.53319627"
+               inkscape:transform-center-x="2.4475173"
+               inkscape:transform-center-y="-6.0282906"
+               transform="rotate(60.664539)" />
+            <path
+               id="path1275"
+               d="m 420.7216,217.81402 -0.20463,15.26108 c -0.004,0.29537 0.23069,0.53608 0.52607,0.54002 l 0.89297,0.0124 -0.49249,36.67323 c -0.008,0.57282 0.44725,1.04032 1.0201,1.04799 l 18.15134,0.24339 c 0.57282,0.008 1.04034,-0.44725 1.04799,-1.0201 l 0.49249,-36.6732 1.27847,0.0171 c 0.29535,0.004 0.5366,-0.23068 0.54054,-0.52607 l 0.20929,-15.57579 z"
+               style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+            <rect
+               transform="rotate(77.764845)"
+               inkscape:transform-center-y="-6.7440705"
+               inkscape:transform-center-x="0.83476381"
+               ry="0.53319627"
+               y="-371.02631"
+               x="287.2197"
+               height="5.8586307"
+               width="17.575893"
+               id="rect1277"
+               style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            <rect
+               style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916837;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect1279"
+               width="22.290804"
+               height="5.8587317"
+               x="193.06598"
+               y="-433.71054"
+               ry="0.53320545"
+               inkscape:transform-center-x="-0.3885635"
+               inkscape:transform-center-y="-8.82476"
+               transform="matrix(-0.00593624,0.99998238,-0.99995441,-0.0095483,0,0)" />
+            <rect
+               transform="matrix(-0.06703897,0.99775036,-0.99766636,-0.06827764,0,0)"
+               inkscape:transform-center-y="-7.518407"
+               inkscape:transform-center-x="-0.84201367"
+               ry="0.53319895"
+               y="-452.46475"
+               x="170.32253"
+               height="5.8586602"
+               width="19.084663"
+               id="rect1281"
+               style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916688;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            <rect
+               style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52917701;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect1283"
+               width="15.139098"
+               height="5.8581233"
+               x="134.34927"
+               y="-474.38495"
+               ry="0.53315014"
+               inkscape:transform-center-x="-1.3124653"
+               inkscape:transform-center-y="-5.8629958"
+               transform="matrix(-0.16350732,0.98654212,-0.98794669,-0.1547945,0,0)" />
+          </g>
+        </g>
+      </g>
+      <g
+         style="stroke-width:1.08265448"
+         transform="matrix(0.92341868,0,0,0.92389273,-214.70823,67.190653)"
+         id="g1334"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\hand_step_2_right_1.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032">
+        <rect
+           transform="rotate(41.947594)"
+           inkscape:transform-center-y="0.17859514"
+           inkscape:transform-center-x="6.8983283"
+           ry="0.53319627"
+           y="-131.13605"
+           x="512.59003"
+           height="5.8586307"
+           width="17.575893"
+           id="rect1330"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.57290465;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:2.16530895;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1824.6875,847.28711 c -1.1164,-0.0107 -2.0207,0.87966 -2.0273,1.99609 l -0.4239,71.35547 -31.3652,-49.63672 c -0.5964,-0.9438 -1.8355,-1.22332 -2.7793,-0.62695 l -15.3125,9.67578 c -0.9438,0.59638 -1.2233,1.83549 -0.627,2.7793 l 27.9532,44.23828 -0.75,55.98828 c -0.015,1.11636 0.8719,2.02612 1.9883,2.04102 l 3.375,0.0469 -1.8614,138.60744 c -0.03,2.165 1.6904,3.9319 3.8555,3.9609 l 68.6035,0.9199 c 2.165,0.03 3.932,-1.6904 3.9609,-3.8555 l 1.8614,-138.60735 4.832,0.0645 c 1.1163,0.0151 2.0281,-0.87185 2.043,-1.98829 l 0.6582,-49.03906 18.6758,-47.29492 c 0.4099,-1.03833 -0.099,-2.19685 -1.1407,-2.59766 l -16.9043,-6.50195 c -1.0419,-0.40081 -2.2111,0.11206 -2.6211,1.15039 l -17.9296,45.41406 h -0.07 l 7.6758,-61.11328 c 0.1391,-1.10774 -0.6405,-2.11341 -1.748,-2.2539 l -17.9688,-2.2793 c -1.1075,-0.1405 -2.1109,0.63835 -2.25,1.74609 l -8.0254,63.90039 h -2.0136 l 0.4511,-75.88086 c 0.01,-1.11643 -0.8875,-2.02449 -2.0039,-2.03515 z"
+           transform="scale(0.26458333)"
+           id="path1332" />
+      </g>
+      <g
+         transform="matrix(-1,0,0,1,841.47335,47.86561)"
+         id="g1340">
+        <rect
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1336"
+           width="17.575893"
+           height="5.8586307"
+           x="479.8428"
+           y="-367.17264"
+           ry="0.53319627"
+           inkscape:transform-center-x="2.4475173"
+           inkscape:transform-center-y="-6.0282906"
+           transform="rotate(60.664539)" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:1.99999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2135.4023,834.42969 c -1.1164,-0.0107 -2.0207,0.87965 -2.0273,1.99609 l -0.4199,70.68164 -11.3067,-52.13672 c -0.2366,-1.09108 -1.3054,-1.77957 -2.3964,-1.54297 l -17.7012,3.83789 c -1.0911,0.23661 -1.7776,1.30541 -1.541,2.39649 l 11.4609,52.85742 h -0.6269 l -0.7735,57.67969 c -0.015,1.11636 0.8719,2.02612 1.9883,2.04101 l 3.375,0.0469 -1.8613,138.60737 c -0.03,2.165 1.6903,3.932 3.8554,3.961 l 68.6035,0.9199 c 2.165,0.03 3.9321,-1.6904 3.961,-3.8555 l 1.8613,-138.60738 4.832,0.0644 c 1.1163,0.0151 2.0281,-0.87184 2.043,-1.98828 l 0.6445,-48.00781 c 0.3194,-0.29578 0.5523,-0.68968 0.629,-1.15234 l 8.6972,-52.47266 c 0.1825,-1.10132 -0.5573,-2.12798 -1.6601,-2.30078 l -17.8926,-2.80274 c -1.1029,-0.1728 -2.1378,0.57447 -2.3203,1.67578 l -7.3379,44.2754 4.0469,-60.25391 c 0.075,-1.11393 -0.7612,-2.07221 -1.875,-2.14844 l -18.0704,-1.23828 c -1.1138,-0.0762 -2.0696,0.75912 -2.1445,1.87305 l -4.2793,63.68359 h -2.0996 l 0.4512,-75.88086 c 0.01,-1.11644 -0.8875,-2.02449 -2.0039,-2.03515 z"
+           transform="scale(0.26458333)"
+           id="path1338" />
+        <path
+           id="path1356"
+           d="m 2135.4023,834.42969 c -1.1164,-0.0107 -2.0207,0.87965 -2.0273,1.99609 l -0.4199,70.68164 -11.3067,-52.13672 c -0.2366,-1.09108 -1.3054,-1.77957 -2.3964,-1.54297 l -17.7012,3.83789 c -1.0911,0.23661 -1.7776,1.30541 -1.541,2.39649 l 11.4609,52.85742 h -0.6269 l -0.7735,57.67969 c -0.015,1.11636 0.8719,2.02612 1.9883,2.04101 l 3.375,0.0469 -1.8613,138.60737 c -0.03,2.165 1.6903,3.932 3.8554,3.961 l 68.6035,0.9199 c 2.165,0.03 3.9321,-1.6904 3.961,-3.8555 l 1.8613,-138.60738 4.832,0.0644 c 1.1163,0.0151 2.0281,-0.87184 2.043,-1.98828 l 0.6445,-48.00781 c 0.3194,-0.29578 0.5523,-0.68968 0.629,-1.15234 l 8.6972,-52.47266 c 0.1825,-1.10132 -0.5573,-2.12798 -1.6601,-2.30078 l -17.8926,-2.80274 c -1.1029,-0.1728 -2.1378,0.57447 -2.3203,1.67578 l -7.3379,44.2754 4.0469,-60.25391 c 0.075,-1.11393 -0.7612,-2.07221 -1.875,-2.14844 l -18.0704,-1.23828 c -1.1138,-0.0762 -2.0696,0.75912 -2.1445,1.87305 l -4.2793,63.68359 h -2.0996 l 0.4512,-75.88086 c 0.01,-1.11644 -0.8875,-2.02449 -2.0039,-2.03515 z"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:1.99999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0"
+           transform="scale(0.26458333)" />
+      </g>
+      <g
+         transform="translate(-211.08769,47.86561)"
+         id="g1354"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\hand_step_2_left_2.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032">
+        <rect
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1350"
+           width="17.575893"
+           height="5.8586307"
+           x="479.8428"
+           y="-367.17264"
+           ry="0.53319627"
+           inkscape:transform-center-x="2.4475173"
+           inkscape:transform-center-y="-6.0282906"
+           transform="rotate(60.664539)" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:1.99999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2135.4023,834.42969 c -1.1164,-0.0107 -2.0207,0.87965 -2.0273,1.99609 l -0.4199,70.68164 -11.3067,-52.13672 c -0.2366,-1.09108 -1.3054,-1.77957 -2.3964,-1.54297 l -17.7012,3.83789 c -1.0911,0.23661 -1.7776,1.30541 -1.541,2.39649 l 11.4609,52.85742 h -0.6269 l -0.7735,57.67969 c -0.015,1.11636 0.8719,2.02612 1.9883,2.04101 l 3.375,0.0469 -1.8613,138.60737 c -0.03,2.165 1.6903,3.932 3.8554,3.961 l 68.6035,0.9199 c 2.165,0.03 3.9321,-1.6904 3.961,-3.8555 l 1.8613,-138.60738 4.832,0.0644 c 1.1163,0.0151 2.0281,-0.87184 2.043,-1.98828 l 0.6445,-48.00781 c 0.3194,-0.29578 0.5523,-0.68968 0.629,-1.15234 l 8.6972,-52.47266 c 0.1825,-1.10132 -0.5573,-2.12798 -1.6601,-2.30078 l -17.8926,-2.80274 c -1.1029,-0.1728 -2.1378,0.57447 -2.3203,1.67578 l -7.3379,44.2754 4.0469,-60.25391 c 0.075,-1.11393 -0.7612,-2.07221 -1.875,-2.14844 l -18.0704,-1.23828 c -1.1138,-0.0762 -2.0696,0.75912 -2.1445,1.87305 l -4.2793,63.68359 h -2.0996 l 0.4512,-75.88086 c 0.01,-1.11644 -0.8875,-2.02449 -2.0039,-2.03515 z"
+           transform="scale(0.26458333)"
+           id="path1352" />
+        <path
+           id="path1366"
+           d="m 2135.4023,834.42969 c -1.1164,-0.0107 -2.0207,0.87965 -2.0273,1.99609 l -0.4199,70.68164 -11.3067,-52.13672 c -0.2366,-1.09108 -1.3054,-1.77957 -2.3964,-1.54297 l -17.7012,3.83789 c -1.0911,0.23661 -1.7776,1.30541 -1.541,2.39649 l 11.4609,52.85742 h -0.6269 l -0.7735,57.67969 c -0.015,1.11636 0.8719,2.02612 1.9883,2.04101 l 3.375,0.0469 -1.8613,138.60737 c -0.03,2.165 1.6903,3.932 3.8554,3.961 l 68.6035,0.9199 c 2.165,0.03 3.9321,-1.6904 3.961,-3.8555 l 1.8613,-138.60738 4.832,0.0644 c 1.1163,0.0151 2.0281,-0.87184 2.043,-1.98828 l 0.6445,-48.00781 c 0.3194,-0.29578 0.5523,-0.68968 0.629,-1.15234 l 8.6972,-52.47266 c 0.1825,-1.10132 -0.5573,-2.12798 -1.6601,-2.30078 l -17.8926,-2.80274 c -1.1029,-0.1728 -2.1378,0.57447 -2.3203,1.67578 l -7.3379,44.2754 4.0469,-60.25391 c 0.075,-1.11393 -0.7612,-2.07221 -1.875,-2.14844 l -18.0704,-1.23828 c -1.1138,-0.0762 -2.0696,0.75912 -2.1445,1.87305 l -4.2793,63.68359 h -2.0996 l 0.4512,-75.88086 c 0.01,-1.11644 -0.8875,-2.02449 -2.0039,-2.03515 z"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:1.99999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0"
+           transform="scale(0.26458333)" />
+      </g>
+      <g
+         id="g1364"
+         transform="matrix(-1,0,0,1,841.47335,47.86561)"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\hand_step_2_left_1.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032">
+        <rect
+           transform="rotate(60.664539)"
+           inkscape:transform-center-y="-6.0282906"
+           inkscape:transform-center-x="2.4475173"
+           ry="0.53319627"
+           y="-367.17264"
+           x="479.8428"
+           height="5.8586307"
+           width="17.575893"
+           id="rect1358"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path1360"
+           transform="scale(0.26458333)"
+           d="m 2135.4023,834.42969 c -1.1164,-0.0107 -2.0207,0.87965 -2.0273,1.99609 l -0.4199,70.68164 -11.3067,-52.13672 c -0.2366,-1.09108 -1.3054,-1.77957 -2.3964,-1.54297 l -17.7012,3.83789 c -1.0911,0.23661 -1.7776,1.30541 -1.541,2.39649 l 11.4609,52.85742 h -0.6269 l -0.7735,57.67969 c -0.015,1.11636 0.8719,2.02612 1.9883,2.04101 l 3.375,0.0469 -1.8613,138.60737 c -0.03,2.165 1.6903,3.932 3.8554,3.961 l 68.6035,0.9199 c 2.165,0.03 3.9321,-1.6904 3.961,-3.8555 l 1.8613,-138.60738 4.832,0.0644 c 1.1163,0.0151 2.0281,-0.87184 2.043,-1.98828 l 0.6445,-48.00781 c 0.3194,-0.29578 0.5523,-0.68968 0.629,-1.15234 l 8.6972,-52.47266 c 0.1825,-1.10132 -0.5573,-2.12798 -1.6601,-2.30078 l -17.8926,-2.80274 c -1.1029,-0.1728 -2.1378,0.57447 -2.3203,1.67578 l -7.3379,44.2754 4.0469,-60.25391 c 0.075,-1.11393 -0.7612,-2.07221 -1.875,-2.14844 l -18.0704,-1.23828 c -1.1138,-0.0762 -2.0696,0.75912 -2.1445,1.87305 l -4.2793,63.68359 h -2.0996 l 0.4512,-75.88086 c 0.01,-1.11644 -0.8875,-2.02449 -2.0039,-2.03515 z"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:1.99999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           transform="scale(0.26458333)"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:1.99999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2135.4023,834.42969 c -1.1164,-0.0107 -2.0207,0.87965 -2.0273,1.99609 l -0.4199,70.68164 -11.3067,-52.13672 c -0.2366,-1.09108 -1.3054,-1.77957 -2.3964,-1.54297 l -17.7012,3.83789 c -1.0911,0.23661 -1.7776,1.30541 -1.541,2.39649 l 11.4609,52.85742 h -0.6269 l -0.7735,57.67969 c -0.015,1.11636 0.8719,2.02612 1.9883,2.04101 l 3.375,0.0469 -1.8613,138.60737 c -0.03,2.165 1.6903,3.932 3.8554,3.961 l 68.6035,0.9199 c 2.165,0.03 3.9321,-1.6904 3.961,-3.8555 l 1.8613,-138.60738 4.832,0.0644 c 1.1163,0.0151 2.0281,-0.87184 2.043,-1.98828 l 0.6445,-48.00781 c 0.3194,-0.29578 0.5523,-0.68968 0.629,-1.15234 l 8.6972,-52.47266 c 0.1825,-1.10132 -0.5573,-2.12798 -1.6601,-2.30078 l -17.8926,-2.80274 c -1.1029,-0.1728 -2.1378,0.57447 -2.3203,1.67578 l -7.3379,44.2754 4.0469,-60.25391 c 0.075,-1.11393 -0.7612,-2.07221 -1.875,-2.14844 l -18.0704,-1.23828 c -1.1138,-0.0762 -2.0696,0.75912 -2.1445,1.87305 l -4.2793,63.68359 h -2.0996 l 0.4512,-75.88086 c 0.01,-1.11644 -0.8875,-2.02449 -2.0039,-2.03515 z"
+           id="path1362" />
+      </g>
+      <g
+         id="g1465"
+         transform="translate(-337.82868,-13.36348)"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\hands_step_3_1.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032">
+        <rect
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1402"
+           width="17.575893"
+           height="5.8586307"
+           x="-203.24312"
+           y="692.53851"
+           ry="0.53319627"
+           inkscape:transform-center-x="0.83476381"
+           inkscape:transform-center-y="-6.7440705"
+           transform="matrix(-0.7618019,0.64781006,0.64781006,0.7618019,0,0)" />
+        <rect
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52917701;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1422"
+           width="15.139098"
+           height="5.8581233"
+           x="670.23273"
+           y="-244.09894"
+           ry="0.53315014"
+           inkscape:transform-center-x="-1.3124653"
+           inkscape:transform-center-y="-5.8629958"
+           transform="matrix(0.60610018,0.79538832,-0.79000837,0.61309605,0,0)" />
+        <rect
+           transform="matrix(-0.60248428,0.79813075,0.80030182,0.59959737,0,0)"
+           inkscape:transform-center-y="-8.82476"
+           inkscape:transform-center-x="-0.3885635"
+           ry="0.53320545"
+           y="711.13232"
+           x="-49.93404"
+           height="5.8587317"
+           width="22.290804"
+           id="rect1404"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916837;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           transform="matrix(-0.46912664,0.88313091,0.87895637,0.4769022,0,0)"
+           inkscape:transform-center-y="-5.8629958"
+           inkscape:transform-center-x="-1.3124653"
+           ry="0.53315014"
+           y="695.14062"
+           x="60.46402"
+           height="5.8581233"
+           width="15.139098"
+           id="rect1408"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52917701;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 596.08408,410.09395 -9.10411,12.24979 c -0.17618,0.23711 -0.50881,0.28586 -0.74589,0.10963 l -0.71703,-0.53237 -21.87711,29.4374 c -0.34147,0.45999 -0.98705,0.55501 -1.44686,0.21326 l -14.56976,-10.82832 c -0.45999,-0.34147 -0.55502,-0.98707 -0.21325,-1.44686 l 21.87708,-29.43738 -1.02617,-0.76272 c -0.2371,-0.17616 -0.28628,-0.50911 -0.11005,-0.7462 l 9.29151,-12.50268 z"
+           id="path1400" />
+        <rect
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1412"
+           width="17.575893"
+           height="5.8586307"
+           x="667.32812"
+           y="257.71588"
+           ry="0.53319627"
+           inkscape:transform-center-x="2.4475173"
+           inkscape:transform-center-y="-6.0282906"
+           transform="rotate(13.945955)" />
+        <path
+           id="path1414"
+           d="m 589.878,410.46901 10.9697,10.61169 c 0.21229,0.20541 0.54842,0.19959 0.7538,-0.0127 l 0.62123,-0.64157 26.36029,25.50104 c 0.41153,0.39854 1.06398,0.38763 1.4623,-0.0241 l 12.62142,-13.04723 c 0.39854,-0.41152 0.38764,-1.06398 -0.0241,-1.46229 l -26.36027,-25.50103 0.88895,-0.91899 c 0.2054,-0.21227 0.19995,-0.54879 -0.0124,-0.75418 L 605.9633,393.38881 Z"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <rect
+           transform="matrix(-0.91860932,0.39516695,0.39516695,0.91860932,0,0)"
+           inkscape:transform-center-y="-6.0282906"
+           inkscape:transform-center-x="2.4475173"
+           ry="0.53319627"
+           y="614.11469"
+           x="-389.17453"
+           height="5.8586307"
+           width="17.575893"
+           id="rect1398"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916837;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1418"
+           width="22.290804"
+           height="5.8587317"
+           x="689.08026"
+           y="-121.50961"
+           ry="0.53320545"
+           inkscape:transform-center-x="-0.3885635"
+           inkscape:transform-center-y="-8.82476"
+           transform="matrix(0.72391256,0.68989174,-0.69250212,0.72141584,0,0)" />
+        <rect
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916688;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1406"
+           width="19.084663"
+           height="5.8586602"
+           x="-4.9469662"
+           y="705.33514"
+           ry="0.53319895"
+           inkscape:transform-center-x="-0.84201367"
+           inkscape:transform-center-y="-7.518407"
+           transform="matrix(-0.55258039,0.8334596,0.834145,0.55154522,0,0)" />
+        <rect
+           transform="rotate(31.046261)"
+           inkscape:transform-center-y="-6.7440705"
+           inkscape:transform-center-x="0.83476381"
+           ry="0.53319627"
+           y="41.430954"
+           x="702.26172"
+           height="5.8586307"
+           width="17.575893"
+           id="rect1416"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           transform="matrix(0.68039671,0.732844,-0.73368815,0.67948635,0,0)"
+           inkscape:transform-center-y="-7.518407"
+           inkscape:transform-center-x="-0.84201367"
+           ry="0.53319895"
+           y="-171.09418"
+           x="683.71338"
+           height="5.8586602"
+           width="19.084663"
+           id="rect1420"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916688;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path1444"
+           d="m 584.44568,422.86605 1.88988,-1.93713 -2.4096,-4.77194 -1.55916,4.25223 z"
+           style="fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1446"
+           d="m 592.57218,412.18823 -3.11833,-2.74031 16.1585,-17.10344 2.45684,4.15774 z"
+           style="fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1448"
+           d="m 577.56946,395.08789 -1.40317,3.07361 2.13815,1.00227 0.66818,-0.0668 1.9377,-2.40541 z"
+           style="fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <g
+         id="g1574"
+         transform="translate(-3.779762,4.5357143)"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\hands_step_3_2.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032">
+        <rect
+           transform="matrix(-0.88312527,0.46913726,0.46913726,0.88312527,0,0)"
+           inkscape:transform-center-y="-28.986868"
+           inkscape:transform-center-x="-50.477023"
+           ry="0.53319627"
+           y="518.24323"
+           x="-155.42316"
+           height="5.8586307"
+           width="17.575893"
+           id="rect1467"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           transform="matrix(0.77030492,0.63767573,-0.63085279,0.77590255,0,0)"
+           inkscape:transform-center-y="-36.878464"
+           inkscape:transform-center-x="40.995555"
+           ry="0.53315014"
+           y="43.897243"
+           x="515.87561"
+           height="5.8581233"
+           width="15.139098"
+           id="rect1469"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52917701;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916837;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1471"
+           width="22.290804"
+           height="5.8587317"
+           x="-41.861282"
+           y="530.60559"
+           ry="0.53320545"
+           inkscape:transform-center-x="-48.160751"
+           inkscape:transform-center-y="-36.302371"
+           transform="matrix(-0.75979822,0.65015895,0.65289922,0.75744479,0,0)" />
+        <rect
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52917701;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1473"
+           width="15.139098"
+           height="5.8581233"
+           x="42.205708"
+           y="515.49005"
+           ry="0.53315014"
+           inkscape:transform-center-x="-36.191382"
+           inkscape:transform-center-y="-43.231485"
+           transform="matrix(-0.6478009,0.76180968,0.75606303,0.65449881,0,0)" />
+        <path
+           inkscape:transform-center-y="-15.595259"
+           inkscape:transform-center-x="-19.528015"
+           id="path1475"
+           d="m 370.13259,397.02327 -11.52192,10.00938 c -0.22297,0.19375 -0.55832,0.16995 -0.75203,-0.0531 l -0.58601,-0.67391 -27.68733,24.05368 c -0.43227,0.37595 -1.08319,0.33014 -1.45891,-0.10236 l -11.90504,-13.70403 c -0.37595,-0.43227 -0.33015,-1.08322 0.10237,-1.45891 l 27.68731,-24.05366 -0.83848,-0.96527 c -0.19375,-0.22295 -0.17029,-0.5587 0.0528,-0.75242 l 11.75925,-10.21613 z"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <rect
+           transform="rotate(0.87272856)"
+           inkscape:transform-center-y="-11.059058"
+           inkscape:transform-center-x="43.185015"
+           ry="0.53319627"
+           y="387.30685"
+           x="368.6821"
+           height="5.8586307"
+           width="17.575893"
+           id="rect1477"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:transform-center-y="-12.7414"
+           inkscape:transform-center-x="19.500255"
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 366.85067,391.4294 13.08571,7.85536 c 0.25324,0.15206 0.57935,0.0704 0.73139,-0.18288 l 0.46,-0.76546 31.44532,18.8775 c 0.49101,0.29513 1.12408,0.13692 1.41895,-0.35424 l 9.34306,-15.56399 c 0.29513,-0.491 0.13692,-1.12409 -0.35424,-1.41893 l -31.44529,-18.8775 0.65803,-1.09626 c 0.15207,-0.25322 0.0706,-0.57979 -0.18267,-0.73183 l -13.35534,-8.01771 z"
+           id="path1479" />
+        <rect
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1481"
+           width="17.575893"
+           height="5.8586307"
+           x="-292.21786"
+           y="461.58591"
+           ry="0.53319627"
+           inkscape:transform-center-x="-42.477923"
+           inkscape:transform-center-y="-17.775417"
+           transform="matrix(-0.98203124,0.18871843,0.18871843,0.98203124,0,0)" />
+        <rect
+           transform="matrix(0.86120089,0.50826473,-0.5113722,0.85935934,0,0)"
+           inkscape:transform-center-y="-27.975235"
+           inkscape:transform-center-x="51.579054"
+           ry="0.53320545"
+           y="138.94247"
+           x="494.7037"
+           height="5.8587317"
+           width="22.290804"
+           id="rect1483"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916837;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           transform="matrix(-0.71864355,0.69537863,0.6962703,0.71777968,0,0)"
+           inkscape:transform-center-y="-40.372577"
+           inkscape:transform-center-x="-42.319933"
+           ry="0.53319895"
+           y="524.61359"
+           x="-7.495594"
+           height="5.8586602"
+           width="19.084663"
+           id="rect1485"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916688;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1487"
+           width="17.575893"
+           height="5.8586307"
+           x="454.92407"
+           y="253.1084"
+           ry="0.53319627"
+           inkscape:transform-center-x="52.589134"
+           inkscape:transform-center-y="-20.368497"
+           transform="rotate(17.973035)" />
+        <rect
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916688;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1489"
+           width="19.084663"
+           height="5.8586602"
+           x="505.01611"
+           y="100.80637"
+           ry="0.53319895"
+           inkscape:transform-center-x="46.534254"
+           inkscape:transform-center-y="-32.998204"
+           transform="matrix(0.82852852,0.55994686,-0.56097505,0.82783271,0,0)" />
+        <path
+           inkscape:transform-center-y="-16.788905"
+           inkscape:transform-center-x="-32.881067"
+           style="fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 356.02335,406.99865 2.26171,-1.48618 -1.32883,-5.17802 -2.43578,3.8183 z"
+           id="path1491"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           inkscape:transform-center-y="-25.644249"
+           inkscape:transform-center-x="40.858574"
+           style="fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 369.8639,392.49465 -3.65736,-1.96393 11.87097,-20.31514 3.33363,3.49425 z"
+           id="path1493"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:transform-center-y="-39.955101"
+           inkscape:transform-center-x="-32.194112"
+           style="fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 355.27167,378.39194 -2.03037,2.70066 1.87309,1.43797 0.66694,0.0782 2.40897,-1.93327 z"
+           id="path1495"
+           inkscape:connector-curvature="0" />
+      </g>
+      <rect
+         transform="matrix(0.60610018,0.79538832,-0.79000837,0.61309605,0,0)"
+         inkscape:transform-center-y="-45.195695"
+         inkscape:transform-center-x="31.591272"
+         ry="0.53315014"
+         y="-379.70068"
+         x="649.58746"
+         height="5.8581233"
+         width="15.139098"
+         id="rect1529"
+         style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52917701;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         transform="rotate(13.945955)"
+         inkscape:transform-center-y="-20.540711"
+         inkscape:transform-center-x="39.564221"
+         ry="0.53319627"
+         y="138.29013"
+         x="735.15863"
+         height="5.8586307"
+         width="17.575893"
+         id="rect1531"
+         style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:transform-center-y="-16.647276"
+         inkscape:transform-center-x="16.515213"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 684.49141,310.91111 10.9697,10.6117 c 0.21229,0.2054 0.54842,0.19959 0.7538,-0.0127 l 0.62123,-0.64157 26.36029,25.50104 c 0.41153,0.39854 1.06398,0.38763 1.4623,-0.0241 l 12.62142,-13.04723 c 0.39854,-0.41152 0.38764,-1.06399 -0.0241,-1.46229 l -26.36027,-25.50103 0.88895,-0.919 c 0.2054,-0.21226 0.19995,-0.54879 -0.0124,-0.75418 l -11.19562,-10.83084 z"
+         id="path1533" />
+      <rect
+         transform="matrix(0.72391256,0.68989174,-0.69250212,0.72141584,0,0)"
+         inkscape:transform-center-y="-38.917146"
+         inkscape:transform-center-x="43.914322"
+         ry="0.53320545"
+         y="-258.85474"
+         x="688.39185"
+         height="5.8587317"
+         width="22.290804"
+         id="rect1535"
+         style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916837;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1537"
+         width="17.575893"
+         height="5.8586307"
+         x="731.97693"
+         y="-92.660385"
+         ry="0.53319627"
+         inkscape:transform-center-x="46.618828"
+         inkscape:transform-center-y="-31.736036"
+         transform="rotate(31.046261)" />
+      <rect
+         style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916688;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1539"
+         width="19.084663"
+         height="5.8586602"
+         x="674.95752"
+         y="-308.17001"
+         ry="0.53319895"
+         inkscape:transform-center-x="37.864082"
+         inkscape:transform-center-y="-42.668803"
+         transform="matrix(0.68039671,0.732844,-0.73368815,0.67948635,0,0)" />
+      <path
+         inkscape:transform-center-y="-34.185038"
+         inkscape:transform-center-x="34.172037"
+         style="fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 687.18559,312.63033 -3.11833,-2.74031 16.1585,-17.10344 2.45684,4.15774 z"
+         id="path1541"
+         inkscape:connector-curvature="0" />
+      <rect
+         transform="matrix(-0.7618019,0.64781006,0.64781006,0.7618019,0,0)"
+         inkscape:transform-center-y="-6.7440705"
+         inkscape:transform-center-x="0.83476381"
+         ry="0.53319627"
+         y="603.63086"
+         x="-313.22931"
+         height="5.8586307"
+         width="17.575893"
+         id="rect1543"
+         style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916837;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1545"
+         width="22.290804"
+         height="5.8587317"
+         x="-176.86584"
+         y="648.30359"
+         ry="0.53320545"
+         inkscape:transform-center-x="-0.3885635"
+         inkscape:transform-center-y="-8.82476"
+         transform="matrix(-0.60248428,0.79813075,0.80030182,0.59959737,0,0)" />
+      <rect
+         style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52917701;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1547"
+         width="15.139098"
+         height="5.8581233"
+         x="-74.189934"
+         y="653.07104"
+         ry="0.53315014"
+         inkscape:transform-center-x="-1.3124653"
+         inkscape:transform-center-y="-5.8629958"
+         transform="matrix(-0.46912664,0.88313091,0.87895637,0.4769022,0,0)" />
+      <path
+         id="path1549"
+         d="m 622.2765,271.11379 -9.10411,12.24979 c -0.17618,0.23711 -0.50881,0.28587 -0.74589,0.10963 l -0.71703,-0.53237 -21.87711,29.4374 c -0.34147,0.45999 -0.98705,0.55501 -1.44686,0.21326 l -14.56976,-10.82832 c -0.45999,-0.34147 -0.55502,-0.98707 -0.21325,-1.44686 l 21.87708,-29.43738 -1.02617,-0.76272 c -0.2371,-0.17616 -0.28628,-0.50911 -0.11005,-0.7462 l 9.29151,-12.50268 z"
+         style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1551"
+         width="17.575893"
+         height="5.8586307"
+         x="-468.15549"
+         y="496.7966"
+         ry="0.53319627"
+         inkscape:transform-center-x="2.4475173"
+         inkscape:transform-center-y="-6.0282906"
+         transform="matrix(-0.91860932,0.39516695,0.39516695,0.91860932,0,0)" />
+      <rect
+         transform="matrix(-0.55258039,0.8334596,0.834145,0.55154522,0,0)"
+         inkscape:transform-center-y="-7.518407"
+         inkscape:transform-center-x="-0.84201367"
+         ry="0.53319895"
+         y="650.36774"
+         x="-135.32298"
+         height="5.8586602"
+         width="19.084663"
+         id="rect1553"
+         style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916688;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 610.6381,283.88589 1.88988,-1.93713 -2.4096,-4.77194 -1.55916,4.25223 z"
+         id="path1555"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 603.76188,256.10773 -1.40317,3.07361 2.13815,1.00227 0.66818,-0.0668 1.9377,-2.40541 z"
+         id="path1557"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g1586"
+         transform="translate(625.4107,-11.759859)" />
+      <g
+         style="stroke-width:0.5291667;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:transform-center-y="0.53939934"
+         inkscape:transform-center-x="-33.984414"
+         transform="rotate(-179.99473,164.4315,315.10124)"
+         id="g1610"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\hand_step_4_left.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1600"
+           transform="scale(0.26458333)"
+           d="m 94.914062,488.5293 c -1.116434,0 -2.015624,0.89919 -2.015624,2.01562 v 84.63477 c -10e-7,1.11643 0.89919,2.01562 2.015624,2.01562 H 234.74023 c 1.11644,0 2.01563,-0.89919 2.01563,-2.01562 v -3.375 h 138.62109 c 2.16519,0 3.90821,-1.74302 3.90821,-3.90821 v -68.61132 c 0,-2.16519 -1.74302,-3.90821 -3.90821,-3.90821 H 236.75586 v -4.83203 c 0,-1.11643 -0.89919,-2.01562 -2.01563,-2.01562 z"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 43.272361,152.63224 v -5.32025 h 13.105978"
+           id="path1602"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 24.705559,146.05525 H 40.962022"
+           id="path1604"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 24.621543,140.65121 h 17.72668"
+           id="path1606"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 24.495525,134.95394 H 36.971408"
+           id="path1608"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="rotate(-45,695.39047,350.60725)"
+         id="g1622"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\hand_step_4_right.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032">
+        <rect
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1612"
+           width="17.575893"
+           height="5.8586307"
+           x="363.32639"
+           y="118.68849"
+           ry="0.53319627"
+           inkscape:transform-center-x="6.6873946"
+           inkscape:transform-center-y="-1.7022681"
+           transform="rotate(12.71191)" />
+        <path
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 337.96825,166.33656 c -0.20605,-0.21166 -0.54248,-0.21618 -0.75414,-0.0101 l -16.04541,15.62015 c -0.21165,0.20604 -0.21617,0.54247 -0.0101,0.75413 l 25.80624,26.50882 c 0.20605,0.21166 0.54248,0.21618 0.75413,0.0101 l 0.63985,-0.62289 25.58383,26.28036 c 0.39961,0.41049 1.05175,0.41925 1.46223,0.0196 l 13.00762,-12.66287 c 0.41049,-0.39961 0.41925,-1.05175 0.0196,-1.46223 l -25.58383,-26.28036 0.91607,-0.8918 c 0.21166,-0.20604 0.21618,-0.54247 0.0101,-0.75413 z"
+           id="path1614"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1616"
+           d="m 325.64746,177.76262 11.33965,11.64839"
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1618"
+           d="m 329.46106,173.93285 12.3652,12.70185"
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1620"
+           d="m 333.45547,169.86843 8.70252,8.93945"
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <g
+         transform="translate(-166.252,240.95622)"
+         id="g1727"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\hands_step_5_right_1.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032">
+        <rect
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1654"
+           width="17.575893"
+           height="5.8586307"
+           x="443.61038"
+           y="267.12201"
+           ry="0.53319627"
+           inkscape:transform-center-x="6.2520764"
+           inkscape:transform-center-y="-1.8006073"
+           transform="rotate(8.8284068)" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:1.99999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2557.6191,2019.3965 c -1.1164,-0.011 -2.0207,0.8796 -2.0273,1.9961 l -0.418,70.6855 -11.3066,-52.1426 c -0.2366,-1.091 -1.3054,-1.7795 -2.3965,-1.5429 l -17.7012,3.8398 c -1.091,0.2366 -1.7795,1.3054 -1.5429,2.3965 l 11.4629,52.8555 h -0.629 l -0.7734,57.6797 c -0.015,1.1163 0.8719,2.0261 1.9883,2.041 l 3.375,0.047 -1.8613,138.6074 c -0.03,2.165 1.6903,3.9319 3.8554,3.9609 l 68.6035,0.9199 c 2.165,0.03 3.9321,-1.6903 3.961,-3.8554 l 1.8613,-138.6075 4.832,0.066 c 1.1163,0.015 2.0281,-0.8719 2.043,-1.9883 l 0.6445,-48.0078 c 0.3205,-0.296 0.5541,-0.6907 0.6309,-1.1543 l 8.6973,-52.4727 c 0.1825,-1.1013 -0.5593,-2.126 -1.6621,-2.2988 l -17.8926,-2.8047 c -1.1029,-0.1728 -2.1378,0.5745 -2.3203,1.6758 l -7.3379,44.2773 4.0488,-60.2558 c 0.075,-1.114 -0.7612,-2.0723 -1.875,-2.1485 l -18.0703,-1.2363 c -1.1138,-0.076 -2.0716,0.7591 -2.1465,1.873 l -4.2773,63.6836 h -2.1016 l 0.4512,-75.8809 c 0.01,-1.1164 -0.8856,-2.0245 -2.002,-2.0351 z"
+           transform="matrix(0.26458333,0,0,0.26458333,-259.24109,-229.17564)"
+           id="path1656" />
+        <g
+           id="g1717">
+          <path
+             inkscape:connector-curvature="0"
+             id="path1695"
+             transform="matrix(0.26458333,0,0,0.26458333,-259.24109,-229.17564)"
+             d="m 2488.7559,1960.0664 c -0.2597,-0.017 -0.5249,-0.01 -0.793,0.029 l -67.9688,9.3594 c -2.1451,0.294 -3.6334,2.2592 -3.3379,4.4043 l 18.9083,137.3242 -4.7872,0.6602 c -1.106,0.1519 -1.875,1.1653 -1.7226,2.2714 l 8.0293,58.3243 87.6777,-13.2735 -4.6347,-33.6562 24.58,-0.42 c 1.1163,-0.019 2.0077,-0.9324 1.9981,-2.0488 l -0.1563,-18.1113 c -0.01,-1.1164 -0.915,-1.9995 -2.0312,-1.9805 l -27.4317,0.4688 -0.1933,-1.3985 c -0.152,-1.1061 -1.1654,-1.8731 -2.2715,-1.7207 l -3.3457,0.459 -18.9082,-137.3242 c -0.2573,-1.877 -1.794,-3.2507 -3.6113,-3.3672 z"
+             style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:1.99999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 402.81227,342.90801 -1.00443,-6.07048"
+             id="path1697"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 396.3784,343.7431 -0.81038,-5.53775"
+             id="path1699"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 390.96178,344.60994 -0.9556,-5.38429"
+             id="path1701"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         transform="translate(-64.68958,346.77423)"
+         id="g1736"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\hands_step_5_right_2.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032">
+        <rect
+           transform="rotate(8.8284068)"
+           inkscape:transform-center-y="-1.8006073"
+           inkscape:transform-center-x="6.2520764"
+           ry="0.53319627"
+           y="158.93376"
+           x="436.68097"
+           height="5.8586307"
+           width="17.575893"
+           id="rect1624"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:1.99999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2594.4961,1611.3203 c -1.1164,-0.011 -2.0207,0.8797 -2.0273,1.9961 l -0.42,70.6797 -11.3047,-52.1367 c -0.2366,-1.0911 -1.3054,-1.7776 -2.3964,-1.541 l -17.7012,3.8378 c -1.0911,0.2367 -1.7796,1.3055 -1.543,2.3965 l 11.4629,52.8575 h -0.6289 l -0.7734,57.6796 c -0.015,1.1164 0.8718,2.0262 1.9882,2.0411 l 3.375,0.047 -1.8613,138.6075 c -0.03,2.1649 1.6904,3.9319 3.8555,3.9609 l 68.6035,0.9199 c 2.165,0.03 3.932,-1.6904 3.9609,-3.8555 l 1.8614,-138.6074 4.832,0.064 c 1.1163,0.015 2.0281,-0.8719 2.043,-1.9883 l 0.6445,-48.0078 c 0.3204,-0.296 0.554,-0.6887 0.6309,-1.1524 l 8.6972,-52.4726 c 0.1826,-1.1013 -0.5592,-2.128 -1.6621,-2.3008 l -17.8926,-2.8027 c -1.1029,-0.1728 -2.1377,0.5744 -2.3203,1.6758 l -7.3379,44.2753 4.0489,-60.2558 c 0.075,-1.114 -0.7612,-2.0722 -1.875,-2.1485 l -18.0704,-1.2363 c -1.1138,-0.076 -2.0716,0.7591 -2.1464,1.8731 l -4.2774,63.6836 h -2.1015 l 0.4511,-75.8829 c 0.01,-1.1164 -0.8875,-2.0225 -2.0039,-2.0332 z"
+           transform="matrix(0.26458333,0,0,0.26458333,-259.24109,-229.17564)"
+           id="path1626" />
+        <g
+           id="g1693">
+          <path
+             inkscape:transform-center-y="-22.013589"
+             inkscape:transform-center-x="-5.2170368"
+             inkscape:connector-curvature="0"
+             style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 396.43974,217.07053 -3.21853,14.91924 c -0.0624,0.28875 0.12013,0.57111 0.4089,0.63338 l 0.87288,0.18874 -7.73501,35.85161 c -0.12115,0.55993 0.23269,1.10823 0.79271,1.22903 l 17.74475,3.82807 c 0.55993,0.12115 1.10825,-0.23268 1.22903,-0.79272 l 7.73501,-35.85158 1.24983,0.26959 c 0.28873,0.0624 0.57163,-0.12 0.6339,-0.40879 l 3.28533,-15.2268 z"
+             id="path1638" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1668"
+             d="m 402.31172,218.35336 -1.13393,6.04763"
+             style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1670"
+             d="m 408.64283,219.77078 -1.13393,5.48066"
+             style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1672"
+             d="m 414.029,220.8102 -0.94496,5.38617"
+             style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        </g>
+      </g>
+      <g
+         id="g1752"
+         transform="matrix(-1,0,0,1,963.07323,240.95623)"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\hands_step_5_left_2.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032">
+        <rect
+           transform="rotate(8.8284068)"
+           inkscape:transform-center-y="-1.8006073"
+           inkscape:transform-center-x="6.2520764"
+           ry="0.53319627"
+           y="267.12201"
+           x="443.61038"
+           height="5.8586307"
+           width="17.575893"
+           id="rect1738"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path1740"
+           transform="matrix(0.26458333,0,0,0.26458333,-259.24109,-229.17564)"
+           d="m 2557.6191,2019.3965 c -1.1164,-0.011 -2.0207,0.8796 -2.0273,1.9961 l -0.418,70.6855 -11.3066,-52.1426 c -0.2366,-1.091 -1.3054,-1.7795 -2.3965,-1.5429 l -17.7012,3.8398 c -1.091,0.2366 -1.7795,1.3054 -1.5429,2.3965 l 11.4629,52.8555 h -0.629 l -0.7734,57.6797 c -0.015,1.1163 0.8719,2.0261 1.9883,2.041 l 3.375,0.047 -1.8613,138.6074 c -0.03,2.165 1.6903,3.9319 3.8554,3.9609 l 68.6035,0.9199 c 2.165,0.03 3.9321,-1.6903 3.961,-3.8554 l 1.8613,-138.6075 4.832,0.066 c 1.1163,0.015 2.0281,-0.8719 2.043,-1.9883 l 0.6445,-48.0078 c 0.3205,-0.296 0.5541,-0.6907 0.6309,-1.1543 l 8.6973,-52.4727 c 0.1825,-1.1013 -0.5593,-2.126 -1.6621,-2.2988 l -17.8926,-2.8047 c -1.1029,-0.1728 -2.1378,0.5745 -2.3203,1.6758 l -7.3379,44.2773 4.0488,-60.2558 c 0.075,-1.114 -0.7612,-2.0723 -1.875,-2.1485 l -18.0703,-1.2363 c -1.1138,-0.076 -2.0716,0.7591 -2.1465,1.873 l -4.2773,63.6836 h -2.1016 l 0.4512,-75.8809 c 0.01,-1.1164 -0.8856,-2.0245 -2.002,-2.0351 z"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:1.99999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g1750">
+          <path
+             style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:1.99999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 2488.7559,1960.0664 c -0.2597,-0.017 -0.5249,-0.01 -0.793,0.029 l -67.9688,9.3594 c -2.1451,0.294 -3.6334,2.2592 -3.3379,4.4043 l 18.9083,137.3242 -4.7872,0.6602 c -1.106,0.1519 -1.875,1.1653 -1.7226,2.2714 l 8.0293,58.3243 87.6777,-13.2735 -4.6347,-33.6562 24.58,-0.42 c 1.1163,-0.019 2.0077,-0.9324 1.9981,-2.0488 l -0.1563,-18.1113 c -0.01,-1.1164 -0.915,-1.9995 -2.0312,-1.9805 l -27.4317,0.4688 -0.1933,-1.3985 c -0.152,-1.1061 -1.1654,-1.8731 -2.2715,-1.7207 l -3.3457,0.459 -18.9082,-137.3242 c -0.2573,-1.877 -1.794,-3.2507 -3.6113,-3.3672 z"
+             transform="matrix(0.26458333,0,0,0.26458333,-259.24109,-229.17564)"
+             id="path1742"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1744"
+             d="m 402.81227,342.90801 -1.00443,-6.07048"
+             style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1746"
+             d="m 396.3784,343.7431 -0.81038,-5.53775"
+             style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1748"
+             d="m 390.96178,344.60994 -0.9556,-5.38429"
+             style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        </g>
+      </g>
+      <g
+         id="g1768"
+         transform="matrix(-1,0,0,1,861.51081,346.77424)"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\hands_step_5_left_1.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032">
+        <rect
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1754"
+           width="17.575893"
+           height="5.8586307"
+           x="436.68097"
+           y="158.93376"
+           ry="0.53319627"
+           inkscape:transform-center-x="6.2520764"
+           inkscape:transform-center-y="-1.8006073"
+           transform="rotate(8.8284068)" />
+        <path
+           id="path1756"
+           transform="matrix(0.26458333,0,0,0.26458333,-259.24109,-229.17564)"
+           d="m 2594.4961,1611.3203 c -1.1164,-0.011 -2.0207,0.8797 -2.0273,1.9961 l -0.42,70.6797 -11.3047,-52.1367 c -0.2366,-1.0911 -1.3054,-1.7776 -2.3964,-1.541 l -17.7012,3.8378 c -1.0911,0.2367 -1.7796,1.3055 -1.543,2.3965 l 11.4629,52.8575 h -0.6289 l -0.7734,57.6796 c -0.015,1.1164 0.8718,2.0262 1.9882,2.0411 l 3.375,0.047 -1.8613,138.6075 c -0.03,2.1649 1.6904,3.9319 3.8555,3.9609 l 68.6035,0.9199 c 2.165,0.03 3.932,-1.6904 3.9609,-3.8555 l 1.8614,-138.6074 4.832,0.064 c 1.1163,0.015 2.0281,-0.8719 2.043,-1.9883 l 0.6445,-48.0078 c 0.3204,-0.296 0.554,-0.6887 0.6309,-1.1524 l 8.6972,-52.4726 c 0.1826,-1.1013 -0.5592,-2.128 -1.6621,-2.3008 l -17.8926,-2.8027 c -1.1029,-0.1728 -2.1377,0.5744 -2.3203,1.6758 l -7.3379,44.2753 4.0489,-60.2558 c 0.075,-1.114 -0.7612,-2.0722 -1.875,-2.1485 l -18.0704,-1.2363 c -1.1138,-0.076 -2.0716,0.7591 -2.1464,1.8731 l -4.2774,63.6836 h -2.1015 l 0.4511,-75.8829 c 0.01,-1.1164 -0.8875,-2.0225 -2.0039,-2.0332 z"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:1.99999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g1766">
+          <path
+             id="path1758"
+             d="m 396.43974,217.07053 -3.21853,14.91924 c -0.0624,0.28875 0.12013,0.57111 0.4089,0.63338 l 0.87288,0.18874 -7.73501,35.85161 c -0.12115,0.55993 0.23269,1.10823 0.79271,1.22903 l 17.74475,3.82807 c 0.55993,0.12115 1.10825,-0.23268 1.22903,-0.79272 l 7.73501,-35.85158 1.24983,0.26959 c 0.28873,0.0624 0.57163,-0.12 0.6339,-0.40879 l 3.28533,-15.2268 z"
+             style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             inkscape:connector-curvature="0"
+             inkscape:transform-center-x="-5.2170368"
+             inkscape:transform-center-y="-22.013589" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 402.31172,218.35336 -1.13393,6.04763"
+             id="path1760"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 408.64283,219.77078 -1.13393,5.48066"
+             id="path1762"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 414.029,220.8102 -0.94496,5.38617"
+             id="path1764"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <path
+         style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 292.77823,723.8125 c -0.2068,-0.0122 -0.39431,-0.14616 -0.46664,-0.35553 l -1.56477,-4.52892 c -0.0964,-0.27919 0.0503,-0.58375 0.32866,-0.68265 l 11.1864,-3.97497 -15.50189,3.86334 c -0.28662,0.0714 -0.5752,-0.10155 -0.64698,-0.38809 l -1.1648,-4.64881 c -0.0718,-0.28654 0.10146,-0.57452 0.38809,-0.64595 l 16.38609,-4.08401 -0.0977,-0.54673 -19.74194,3.65559 c -0.29046,0.0538 -0.56838,-0.13658 -0.62322,-0.42683 l -0.88988,-4.70876 c -0.0548,-0.29027 0.13486,-0.56737 0.42532,-0.62116 l 18.38904,-3.40495 -14.1061,-0.51366 c -0.29519,-0.0107 -0.5244,-0.25673 -0.51366,-0.55192 l 0.17415,-4.78936 c 0.0107,-0.2952 0.2572,-0.5239 0.5524,-0.51316 l 14.30094,0.51988 -0.0294,-0.1633 2.95693,-0.57052 -5.81827,-2.02417 c -0.27897,-0.097 -0.42521,-0.40002 -0.32813,-0.67903 l 1.57458,-4.5258 c 0.0971,-0.279 0.40005,-0.42574 0.67903,-0.32867 l 15.36134,5.34491 0.56068,-0.10801 c 0.29003,-0.056 0.56832,0.13264 0.62426,0.4227 l 0.16949,0.87696 36.01228,-6.94843 c 0.56245,-0.10883 1.10278,0.25707 1.21128,0.8196 l 3.43856,17.82424 c 0.10882,0.56242 -0.25652,1.10281 -0.81907,1.21128 l -36.01228,6.94841 0.24185,1.25524 c 0.056,0.29001 -0.1321,0.56883 -0.42219,0.62476 l -12.47315,2.40657 c -0.0621,0.0973 -0.15404,0.17642 -0.2713,0.21807 l -13.26018,4.71186 c -0.0696,0.0247 -0.14086,0.034 -0.20979,0.03 z"
+         id="rect1789"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\hand_step_6_right_1.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032" />
+      <g
+         transform="matrix(-0.7956672,-0.60573402,-0.60573402,0.7956672,639.75179,750.50085)"
+         id="g1817"
+         inkscape:transform-center-x="-29.734505"
+         inkscape:transform-center-y="-8.2307369"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\hand_step_6_left_1.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032">
+        <rect
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1807"
+           width="17.575893"
+           height="5.8586307"
+           x="363.32639"
+           y="118.68849"
+           ry="0.53319627"
+           inkscape:transform-center-x="6.6873946"
+           inkscape:transform-center-y="-1.7022681"
+           transform="rotate(12.71191)" />
+        <path
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 337.96825,166.33656 c -0.20605,-0.21166 -0.54248,-0.21618 -0.75414,-0.0101 l -16.04541,15.62015 c -0.21165,0.20604 -0.21617,0.54247 -0.0101,0.75413 l 25.80624,26.50882 c 0.20605,0.21166 0.54248,0.21618 0.75413,0.0101 l 0.63985,-0.62289 25.58383,26.28036 c 0.39961,0.41049 1.05175,0.41925 1.46223,0.0196 l 13.00762,-12.66287 c 0.41049,-0.39961 0.41925,-1.05175 0.0196,-1.46223 l -25.58383,-26.28036 0.91607,-0.8918 c 0.21166,-0.20604 0.21618,-0.54247 0.0101,-0.75413 z"
+           id="path1809"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1811"
+           d="m 325.64746,177.76262 11.33965,11.64839"
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1813"
+           d="m 329.46106,173.93285 12.3652,12.70185"
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1815"
+           d="m 333.45547,169.86843 8.70252,8.93945"
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path1842"
+         d="m 479.55381,717.39803 c 0.2068,-0.0122 0.39431,-0.14616 0.46664,-0.35553 l 1.56477,-4.52892 c 0.0964,-0.27919 -0.0503,-0.58375 -0.32866,-0.68265 l -11.1864,-3.97497 15.50189,3.86334 c 0.28662,0.0714 0.5752,-0.10155 0.64698,-0.38809 l 1.1648,-4.64881 c 0.0718,-0.28654 -0.10146,-0.57452 -0.38809,-0.64595 l -16.38609,-4.08401 0.0977,-0.54673 19.74194,3.65559 c 0.29046,0.0538 0.56838,-0.13658 0.62322,-0.42683 l 0.88988,-4.70876 c 0.0548,-0.29027 -0.13486,-0.56737 -0.42532,-0.62116 l -18.38904,-3.40495 14.1061,-0.51366 c 0.29519,-0.0107 0.5244,-0.25673 0.51366,-0.55192 l -0.17415,-4.78936 c -0.0107,-0.2952 -0.2572,-0.5239 -0.5524,-0.51316 l -14.30094,0.51988 0.0294,-0.1633 -2.95693,-0.57052 5.81827,-2.02417 c 0.27897,-0.097 0.42521,-0.40002 0.32813,-0.67903 l -1.57458,-4.5258 c -0.0971,-0.279 -0.40005,-0.42574 -0.67903,-0.32867 l -15.36134,5.34491 -0.56068,-0.10801 c -0.29003,-0.056 -0.56832,0.13264 -0.62426,0.4227 l -0.16949,0.87696 -36.01228,-6.94843 c -0.56245,-0.10883 -1.10278,0.25707 -1.21128,0.8196 l -3.43856,17.82424 c -0.10882,0.56242 0.25652,1.10281 0.81907,1.21128 l 36.01228,6.94841 -0.24185,1.25524 c -0.056,0.29001 0.1321,0.56883 0.42219,0.62476 l 12.47315,2.40657 c 0.0621,0.0973 0.15404,0.17642 0.2713,0.21807 l 13.26018,4.71186 c 0.0696,0.0247 0.14086,0.034 0.20979,0.03 z"
+         style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\hand_step_6_left_2.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032" />
+      <g
+         inkscape:transform-center-y="-8.2307555"
+         inkscape:transform-center-x="29.734512"
+         id="g1854"
+         transform="rotate(-37.28168,1169.1929,175.52955)"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\hand_step_6_right_2.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032">
+        <rect
+           transform="rotate(12.71191)"
+           inkscape:transform-center-y="-1.7022681"
+           inkscape:transform-center-x="6.6873946"
+           ry="0.53319627"
+           y="118.68849"
+           x="363.32639"
+           height="5.8586307"
+           width="17.575893"
+           id="rect1844"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1846"
+           d="m 337.96825,166.33656 c -0.20605,-0.21166 -0.54248,-0.21618 -0.75414,-0.0101 l -16.04541,15.62015 c -0.21165,0.20604 -0.21617,0.54247 -0.0101,0.75413 l 25.80624,26.50882 c 0.20605,0.21166 0.54248,0.21618 0.75413,0.0101 l 0.63985,-0.62289 25.58383,26.28036 c 0.39961,0.41049 1.05175,0.41925 1.46223,0.0196 l 13.00762,-12.66287 c 0.41049,-0.39961 0.41925,-1.05175 0.0196,-1.46223 l -25.58383,-26.28036 0.91607,-0.8918 c 0.21166,-0.20604 0.21618,-0.54247 0.0101,-0.75413 z"
+           style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 325.64746,177.76262 11.33965,11.64839"
+           id="path1848"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 329.46106,173.93285 12.3652,12.70185"
+           id="path1850"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 333.45547,169.86843 8.70252,8.93945"
+           id="path1852"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g1862"
+         transform="rotate(80.54349,-178.28689,440.36299)"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\cream_bottle_1.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032">
+        <rect
+           ry="0.53319627"
+           y="436.09521"
+           x="-137.9613"
+           height="14.363094"
+           width="17.386906"
+           id="rect1858"
+           style="opacity:1;fill:#d4ff2a;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           ry="0.53319627"
+           y="423.15121"
+           x="-207.22887"
+           height="38.486809"
+           width="73.594086"
+           id="rect1856"
+           style="opacity:1;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <path
+         sodipodi:nodetypes="aaaaaaa"
+         inkscape:connector-curvature="0"
+         id="path1864"
+         d="m -38.683829,417.47193 c -1.04089,-0.8567 -0.66119,-2.61529 -0.91899,-3.93852 -0.43201,-2.21743 -2.43691,-4.912 -1.05027,-6.69549 0.86331,-1.11038 3.17339,-1.3541 4.20109,-0.39385 1.24746,1.16557 -0.32679,3.42406 -0.13128,5.12008 0.23825,2.06671 2.87651,4.41575 1.57541,6.03907 -0.76682,0.95672 -2.72927,0.64788 -3.67596,-0.13129 z"
+         style="fill:#ffccaa;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\cream_1.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032" />
+      <path
+         sodipodi:nodetypes="aaaaaaaaaa"
+         inkscape:connector-curvature="0"
+         id="path1866"
+         d="m -39.209901,450.63334 c -1.82595,-0.46826 -4.20318,1.85465 -5.62176,0.61328 -1.051555,-0.9202 -0.27605,-2.80428 -0.10221,-4.19077 0.39184,-3.12523 -0.36805,-7.92469 2.55535,-9.09703 2.60867,-1.04613 4.82034,2.89247 7.25718,4.29298 1.45468,0.83604 3.46409,1.05738 4.39519,2.45313 0.98973,1.48364 1.92533,4.10712 0.61329,5.31512 -1.15028,1.05907 -3.22841,-1.67126 -4.59963,-0.91992 -1.15415,0.6324 -0.17163,3.29759 -1.43099,3.6797 -1.19393,0.36226 -1.85784,-1.83657 -3.06642,-2.14649 z"
+         style="fill:#e9c6af;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\cream_2.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032" />
+      <path
+         style="fill:#e9c6af;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -43.983161,499.13437 c -1.500445,-0.89168 -0.35891,-3.4933 -0.86083,-5.16498 -1.044875,-3.48003 -5.269185,-6.42645 -4.427125,-9.96104 0.73592,-3.08903 4.375915,-4.99242 7.378545,-6.02581 5.31148,-1.828 12.57469,-3.2773 16.84768,0.36893 2.78902,2.37993 3.2338,7.38101 1.96761,10.82186 -0.6036,1.64029 -3.86471,1.58328 -4.0582,3.32035 -0.18428,1.65436 3.84827,2.46145 3.0744,3.93522 -1.60364,3.05398 -6.91282,-1.08561 -10.32997,-0.61487 -3.35186,0.46174 -6.68346,5.04889 -9.59211,3.32034 z"
+         id="path1868"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="aaaaaaaaaa"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\cream_3.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032" />
+      <g
+         transform="rotate(80.54349,-85.715896,474.15187)"
+         id="g1874"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\cream_bottle_2.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032">
+        <rect
+           style="opacity:1;fill:#d4ff2a;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1870"
+           width="17.386906"
+           height="14.363094"
+           x="-81.012306"
+           y="478.09497"
+           ry="0.53319627" />
+        <rect
+           style="opacity:1;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.52916914;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1872"
+           width="57.202637"
+           height="42.598171"
+           x="-117.13655"
+           y="468.40671"
+           ry="0.59015507"
+           transform="matrix(0.99918262,0.04042396,-0.03611848,0.99934751,0,0)" />
+      </g>
+      <path
+         style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -127.9765,655.4076 52.240671,-0.84311 c 6.293603,-0.10157 -11.112573,8.49334 -11.796281,14.75433 -1.036929,9.49556 14.840274,16.42004 12.638871,25.71467 -1.340716,5.66069 -10.086521,6.14998 -13.902759,10.5388 -3.590236,4.12891 -2.565031,14.90572 -8.00462,14.33278 l -32.018472,-3.37243 c -6.45618,-0.68001 12.56563,-8.68942 12.21757,-15.17586 -0.33008,-6.15151 -12.97468,-6.90834 -13.06017,-13.06812 -0.0993,-7.15604 14.35133,-8.45155 14.74536,-15.59742 0.39765,-7.21168 -20.27749,-17.16716 -13.06017,-17.28364 z"
+         id="path1912"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssssssssss"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\towel.png"
+         inkscape:export-xdpi="96.609032"
+         inkscape:export-ydpi="96.609032" />
+      <path
+         style="fill:none;stroke:#00ff00;stroke-width:6.61458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m -138.71726,578.21427 c 0,0 16.63095,17.76489 20.41071,17.00893 3.77977,-0.75595 45.735123,-38.55358 45.735123,-38.55358"
+         id="path1934"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Janis\Documents\hand-washing\game\sprites\check-mark.png"
+         inkscape:export-xdpi="5.7422295"
+         inkscape:export-ydpi="5.7422295" />
+    </g>
+  </g>
+</svg>
