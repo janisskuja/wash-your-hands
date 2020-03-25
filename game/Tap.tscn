@@ -1,11 +1,22 @@
-[gd_scene load_steps=3 format=2]
+[gd_scene load_steps=7 format=2]
 
 [ext_resource path="res://sprites/water_dispenser.png" type="Texture" id=1]
 [ext_resource path="res://Tap.gd" type="Script" id=2]
+[ext_resource path="res://sprites/hand_step_6_left_2.png" type="Texture" id=3]
+[ext_resource path="res://sprites/towel.png" type="Texture" id=4]
+
+[sub_resource type="RectangleShape2D" id=1]
+extents = Vector2( 49.1081, 10 )
+
+[sub_resource type="RectangleShape2D" id=2]
+extents = Vector2( 87.7084, 49.4807 )
 
 [node name="Tap" type="Node2D"]
-position = Vector2( 6.89233, 50.2714 )
+position = Vector2( 42.0541, 116.894 )
 script = ExtResource( 2 )
+__meta__ = {
+"_edit_group_": true
+}
 
 [node name="Sprite" type="Sprite" parent="."]
 position = Vector2( 135.661, 260.77 )
@@ -17,4 +28,36 @@ position = Vector2( 233.638, 281.696 )
 [node name="Timer" type="Timer" parent="."]
 wait_time = 0.2
 autostart = true
+
+[node name="PressHere" type="Area2D" parent="."]
+position = Vector2( 79.0001, 167 )
+__meta__ = {
+"_edit_group_": true
+}
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="PressHere"]
+shape = SubResource( 1 )
+
+[node name="PressHand" type="Area2D" parent="." groups=[
+"hands",
+]]
+visible = false
+
+[node name="Sprite" type="Sprite" parent="PressHand"]
+texture = ExtResource( 3 )
+
+[node name="Sprite2" type="Sprite" parent="PressHand"]
+position = Vector2( 77.6445, 10.9959 )
+rotation = -0.760963
+scale = Vector2( 0.774123, 0.445097 )
+texture = ExtResource( 4 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="PressHand"]
+position = Vector2( 64.3461, 8.14508 )
+shape = SubResource( 2 )
+
+[node name="Timer2" type="Timer" parent="."]
+one_shot = true
 [connection signal="timeout" from="Timer" to="." method="_on_Timer_timeout"]
+[connection signal="area_entered" from="PressHere" to="." method="_on_PressHere_area_entered"]
+[connection signal="timeout" from="Timer2" to="." method="_on_Timer2_timeout"]

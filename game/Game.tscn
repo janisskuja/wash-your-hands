@@ -97,7 +97,7 @@ tracks/2/keys = {
 "values": [ Color( 0, 0, 0, 1 ), Color( 0, 1, 0.12549, 1 ) ]
 }
 
-[sub_resource type="Animation" id=11]
+[sub_resource type="Animation" id=6]
 resource_name = "palm_rub_txt"
 length = 1.5
 tracks/0/type = "value"
@@ -137,8 +137,7 @@ tracks/2/keys = {
 "values": [ Color( 0, 0, 0, 1 ), Color( 1, 0.470588, 0, 1 ) ]
 }
 
-[sub_resource type="Animation" id=6]
-resource_name = "palm_to_palm_txt"
+[sub_resource type="Animation" id=7]
 length = 1.5
 tracks/0/type = "value"
 tracks/0/path = NodePath("CanvasLayer/HUD/PalmToPalm:visible")
@@ -177,7 +176,7 @@ tracks/2/keys = {
 "values": [ Color( 0, 0, 0, 1 ), Color( 0, 1, 0.592157, 1 ) ]
 }
 
-[sub_resource type="Animation" id=10]
+[sub_resource type="Animation" id=8]
 resource_name = "screw_the_thumbs_txt"
 length = 1.5
 tracks/0/type = "value"
@@ -217,7 +216,7 @@ tracks/2/keys = {
 "values": [ Color( 0, 0, 0, 1 ), Color( 1, 0, 0.894118, 1 ) ]
 }
 
-[sub_resource type="Animation" id=7]
+[sub_resource type="Animation" id=9]
 length = 1.5
 tracks/0/type = "value"
 tracks/0/path = NodePath("CanvasLayer/HUD/SpreadIt:visible")
@@ -256,7 +255,7 @@ tracks/2/keys = {
 "values": [ Color( 0, 0, 0, 1 ), Color( 1, 0.784314, 0, 1 ) ]
 }
 
-[sub_resource type="Animation" id=8]
+[sub_resource type="Animation" id=10]
 length = 1.5
 tracks/0/type = "value"
 tracks/0/path = NodePath("CanvasLayer/HUD/WayOfClosedFists:visible")
@@ -295,7 +294,7 @@ tracks/2/keys = {
 "values": [ Color( 0, 0, 0, 1 ), Color( 1, 0, 0, 1 ) ]
 }
 
-[sub_resource type="Animation" id=9]
+[sub_resource type="Animation" id=11]
 length = 1.5
 tracks/0/type = "value"
 tracks/0/path = NodePath("CanvasLayer/HUD/WetYourHands:custom_colors/font_color")
@@ -549,24 +548,6 @@ __meta__ = {
 "_edit_use_anchors_": false
 }
 
-[node name="Moisturize" type="Label" parent="CanvasLayer/HUD"]
-visible = false
-anchor_left = 0.5
-anchor_top = 0.5
-anchor_right = 0.5
-anchor_bottom = 0.5
-margin_left = -323.0
-margin_top = -46.0
-margin_right = 323.0
-margin_bottom = 46.0
-custom_fonts/font = SubResource( 1 )
-custom_colors/font_color = Color( 0, 0, 0, 1 )
-text = "MOISTURIZE!"
-align = 1
-__meta__ = {
-"_edit_use_anchors_": false
-}
-
 [node name="TaskList" type="VBoxContainer" parent="CanvasLayer/HUD"]
 anchor_left = 1.0
 anchor_right = 1.0
@@ -808,9 +789,9 @@ alignment = 2
 
 [node name="Check" type="TextureRect" parent="CanvasLayer/HUD/TaskList/Dry"]
 visible = false
-margin_left = 237.0
-margin_right = 253.0
-margin_bottom = 15.0
+margin_left = 317.0
+margin_right = 333.0
+margin_bottom = 22.0
 texture = ExtResource( 3 )
 
 [node name="Label" type="Label" parent="CanvasLayer/HUD/TaskList/Dry"]
@@ -831,9 +812,9 @@ alignment = 2
 
 [node name="Check" type="TextureRect" parent="CanvasLayer/HUD/TaskList/CloseTap"]
 visible = false
-margin_left = 272.0
-margin_right = 288.0
-margin_bottom = 15.0
+margin_left = 367.0
+margin_right = 383.0
+margin_bottom = 22.0
 texture = ExtResource( 3 )
 
 [node name="Label" type="Label" parent="CanvasLayer/HUD/TaskList/CloseTap"]
@@ -846,26 +827,26 @@ text = "Use towel to turn off faucet"
 align = 2
 valign = 1
 
-[node name="Moisturize" type="HBoxContainer" parent="CanvasLayer/HUD/TaskList"]
+[node name="Done" type="HBoxContainer" parent="CanvasLayer/HUD/TaskList"]
 margin_top = 384.0
 margin_right = 525.0
 margin_bottom = 406.0
 alignment = 2
 
-[node name="Check" type="TextureRect" parent="CanvasLayer/HUD/TaskList/Moisturize"]
+[node name="Check" type="TextureRect" parent="CanvasLayer/HUD/TaskList/Done"]
 visible = false
-margin_left = 292.0
-margin_right = 308.0
-margin_bottom = 15.0
+margin_left = 446.0
+margin_right = 462.0
+margin_bottom = 22.0
 texture = ExtResource( 3 )
 
-[node name="Label" type="Label" parent="CanvasLayer/HUD/TaskList/Moisturize"]
-margin_left = 416.0
+[node name="Label" type="Label" parent="CanvasLayer/HUD/TaskList/Done"]
+margin_left = 466.0
 margin_right = 525.0
 margin_bottom = 22.0
 custom_fonts/font = SubResource( 2 )
 custom_colors/font_color = Color( 0, 0, 0, 1 )
-text = "Moisturize your hands"
+text = "You're safe!"
 align = 2
 valign = 1
 
@@ -884,12 +865,12 @@ valign = 1
 [node name="AnimationPlayer" type="AnimationPlayer" parent="."]
 anims/apply_soap_txt = SubResource( 4 )
 anims/between_fingers_txt = SubResource( 5 )
-anims/palm_rub_txt = SubResource( 11 )
-anims/palm_to_palm_txt = SubResource( 6 )
-anims/screw_the_thumbs_txt = SubResource( 10 )
-anims/spread_it_txt = SubResource( 7 )
-anims/way_of_the_closed_fists_txt = SubResource( 8 )
-anims/wet_your_hands_txt = SubResource( 9 )
+anims/palm_rub_txt = SubResource( 6 )
+anims/palm_to_palm_txt = SubResource( 7 )
+anims/screw_the_thumbs_txt = SubResource( 8 )
+anims/spread_it_txt = SubResource( 9 )
+anims/way_of_the_closed_fists_txt = SubResource( 10 )
+anims/wet_your_hands_txt = SubResource( 11 )
 
 [node name="RinseHands" parent="." instance=ExtResource( 5 )]
 position = Vector2( 580, 450 )
@@ -897,4 +878,9 @@ position = Vector2( 580, 450 )
 [node name="Timer" type="Timer" parent="."]
 wait_time = 10.0
 one_shot = true
+
+[node name="Timer2" type="Timer" parent="."]
+wait_time = 2.0
+one_shot = true
 [connection signal="timeout" from="Timer" to="." method="_on_Timer_timeout"]
+[connection signal="timeout" from="Timer2" to="." method="_on_Timer2_timeout"]

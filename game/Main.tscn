@@ -7,7 +7,7 @@
 size = 24
 font_data = ExtResource( 1 )
 
-[sub_resource type="StyleBoxFlat" id=2]
+[sub_resource type="StyleBoxFlat" id=5]
 bg_color = Color( 0.6, 0.6, 0.6, 0.156863 )
 
 [sub_resource type="StyleBoxFlat" id=3]
@@ -16,7 +16,7 @@ bg_color = Color( 0.6, 0.6, 0.6, 0.0784314 )
 [sub_resource type="StyleBoxFlat" id=4]
 bg_color = Color( 0.6, 0.6, 0.6, 0.0784314 )
 
-[sub_resource type="DynamicFont" id=5]
+[sub_resource type="DynamicFont" id=6]
 size = 20
 font_data = ExtResource( 1 )
 
@@ -60,10 +60,10 @@ align = 1
 margin_top = 295.0
 margin_right = 576.0
 margin_bottom = 325.0
-custom_styles/hover = SubResource( 2 )
+custom_styles/hover = SubResource( 5 )
 custom_styles/pressed = SubResource( 3 )
 custom_styles/normal = SubResource( 4 )
-custom_fonts/font = SubResource( 5 )
+custom_fonts/font = SubResource( 6 )
 custom_colors/font_color = Color( 0, 0, 0, 1 )
 custom_colors/font_color_hover = Color( 0.152941, 0, 1, 1 )
 custom_colors/font_color_pressed = Color( 0, 0, 0, 1 )

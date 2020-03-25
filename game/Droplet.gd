@@ -1,7 +1,7 @@
 extends RigidBody2D
 
 
-export (String, 'water', 'soap', 'cream') var type = 'water'
+export (String, 'water', 'soap') var type = 'water'
 
 
 # Called when the node enters the scene tree for the first time.
@@ -17,8 +17,6 @@ func _ready():
         pass
     if (type == 'soap'):
         $Soap.set_visible(true)
-    if (type == 'cream'):
-        $Cream.set_visible(true)
 
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.

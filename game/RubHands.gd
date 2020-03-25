@@ -35,6 +35,14 @@ func set_step(step):
         $ClosedFists.set_visible(false)
         $ThumbScrew.set_visible(true)
         current_anim = 'thumb_screw'
+        $Timer.start()
+    if (step == 'palm_rub'):
+        $ThumbScrew.set_visible(false)
+        $RotationalRubbing.set_visible(true)
+        current_anim = 'rotational_rub'
+        next_action = 'ui_left'
+        $Controls.show_control('left')
+        $Timer.start()
 
 func _process(delta):
     if (Input.is_action_just_pressed(next_action)):
@@ -61,5 +69,7 @@ func _on_Timer_timeout():
         $Updown1.set_visible(false)
         $Updown2.set_visible(true)
         current_anim = 'updown_2'
-    elif (current_step == ''):
+    elif (current_step == 'thumb_screw'):
         current_anim = 'thumb_screw_2'
+    elif (current_step == 'palm_rub'):
+        current_anim = 'rotational_rub_2'
