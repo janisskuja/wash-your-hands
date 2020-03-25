@@ -3,11 +3,11 @@ extends Node2D
 const Droplet = preload('res://Droplet.tscn')
 
 func stop_spawning():
-	$Timer.stop()
+    $Timer.stop()
 
 func start_spawning():
-	$Timer.start()
+    $Timer.start()
 
 func _on_Timer_timeout():
-	var droplet = Droplet.instance()
-	$WaterSpawn.add_child(droplet)
+    var droplet = Droplet.instance()
+    $WaterSpawn.call_deferred('add_child', droplet)
